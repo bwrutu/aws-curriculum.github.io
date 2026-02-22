@@ -35,11 +35,11 @@ Our mission is to provide structured, well-organized study guides with direct li
 
 ### Study Guide Features
 
-✅ **Comprehensive Documentation Links** - 150-220+ hyperlinked official resources per domain
-✅ **Exam-Focused Content** - Organized by official exam domains and skills
-✅ **"Why" Statements** - Exam relevance explained for every skill
-✅ **Study Tips** - Actionable recommendations for each domain
-✅ **Progressive Learning Paths** - Structured approach to mastering content
+✅ **Comprehensive Documentation Links** - 150-220+ hyperlinked official resources per domain<br>
+✅ **Exam-Focused Content** - Organized by official exam domains and skills<br>
+✅ **"Why" Statements** - Exam relevance explained for every skill<br>
+✅ **Study Tips** - Actionable recommendations for each domain<br>
+✅ **Progressive Learning Paths** - Structured approach to mastering content<br>
 ✅ **Official Resources** - Service FAQs, whitepapers, and documentation
 
 ## 📚 Available Study Guides
