@@ -19,14 +19,10 @@ Our mission is to provide structured, well-organized study guides with direct li
 
 ### AWS Certified Cloud Practitioner (CLF-C02)
 
-- [Domain 4: Billing, Pricing, and Support](docs/aws/clf-c02/domain4)
-
-### AWS Certified Developer Associate (DVA-C02)
-
-- [Domain 1: Development with AWS Services](docs/aws/dva-c02/domain1)
-- [Domain 2: Security](docs/aws/dva-c02/domain2)
-- [Domain 3: Deployment](docs/aws/dva-c02/domain3)
-- [Domain 4: Troubleshooting and Optimization](docs/aws/dva-c02/domain4)
+- [AWS Certified Cloud Practitioner (CLF-C02) Domain 1](docs/aws/clf-c02/AWS-Cloud-Practitioner-CLF-C02-Domain1)
+- [AWS Certified Cloud Practitioner (CLF-C02) Domain 2](docs/aws/clf-c02/AWS-Cloud-Practitioner-CLF-C02-Domain2)
+- [AWS Certified Cloud Practitioner (CLF-C02) Domain 3](docs/aws/clf-c02/AWS-Cloud-Practitioner-CLF-C02-Domain3)
+- [AWS Certified Cloud Practitioner (CLF-C02) Domain 4](docs/aws/clf-c02/AWS-Cloud-Practitioner-CLF-C02-Domain4)
 
 ---
 

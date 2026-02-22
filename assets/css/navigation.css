@@ -1,4 +1,48 @@
 /* ============================================================
+   Header override - cloud blue
+   ============================================================ */
+
+#header_wrap {
+  background: #1565C0;
+  background: -moz-linear-gradient(top, #1976D2, #1565C0);
+  background: -webkit-linear-gradient(top, #1976D2, #1565C0);
+  background: linear-gradient(to bottom, #1976D2, #1565C0);
+}
+
+/* ============================================================
+   Header title and tagline - centered
+   ============================================================ */
+
+#project_title,
+#project_tagline {
+  text-align: center;
+}
+
+/* ============================================================
+   Cloud provider icons in header
+   ============================================================ */
+
+.cloud-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 60px;
+  padding: 16px 0 8px;
+}
+
+.cloud-icon {
+  height: 48px;
+  width: auto;
+  filter: brightness(0) invert(1);
+  opacity: 0.9;
+  transition: opacity 0.2s;
+}
+
+.cloud-icon:hover {
+  opacity: 1;
+}
+
+/* ============================================================
    Site Navigation - matches Slate theme color scheme
    ============================================================ */
 
