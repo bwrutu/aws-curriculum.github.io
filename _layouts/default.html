@@ -40,22 +40,22 @@
         <ul class="nav-menu">
           {% for item in site.data.navigation %}
           <li class="nav-item{% if item.items %} has-dropdown{% endif %}">
-            <a href="{{ item.url | default: '#' }}">{{ item.title }}{% if item.items %} &#9660;{% endif %}</a>
+            <a href="{{ item.url | default: '#' }}"{% if item.target %} target="{{ item.target }}"{% endif %}>{{ item.title }}{% if item.items %} &#9660;{% endif %}</a>
             {% if item.items %}
             <ul class="dropdown">
               {% for subitem in item.items %}
               <li class="nav-item{% if subitem.items %} has-dropdown{% endif %}">
-                <a href="{{ subitem.url | default: '#' }}">{{ subitem.title }}{% if subitem.items %} &#9658;{% endif %}</a>
+                <a href="{{ subitem.url | default: '#' }}"{% if subitem.target %} target="{{ subitem.target }}"{% endif %}>{{ subitem.title }}{% if subitem.items %} &#9658;{% endif %}</a>
                 {% if subitem.items %}
                 <ul class="dropdown fly-out">
                   {% for leaf in subitem.items %}
                   <li class="nav-item{% if leaf.items %} has-dropdown{% endif %}">
-                    <a href="{{ leaf.url | default: '#' }}">{{ leaf.title }}{% if leaf.items %} &#9658;{% endif %}</a>
+                    <a href="{{ leaf.url | default: '#' }}"{% if leaf.target %} target="{{ leaf.target }}"{% endif %}>{{ leaf.title }}{% if leaf.items %} &#9658;{% endif %}</a>
                     {% if leaf.items %}
                     <ul class="dropdown fly-out">
                       {% for subleaf in leaf.items %}
                       <li class="nav-item">
-                        <a href="{{ subleaf.url | default: '#' }}">{{ subleaf.title }}</a>
+                        <a href="{{ subleaf.url | default: '#' }}"{% if subleaf.target %} target="{{ subleaf.target }}"{% endif %}>{{ subleaf.title }}</a>
                       </li>
                       {% endfor %}
                     </ul>
@@ -90,5 +90,24 @@
         <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
       </footer>
     </div>
+
+    <!-- SCROLL TO TOP -->
+    <button id="scroll-to-top" aria-label="Scroll to top">&#8679;</button>
+    <script>
+      (function () {
+        var btn = document.getElementById('scroll-to-top');
+        var header = document.getElementById('header_wrap');
+        window.addEventListener('scroll', function () {
+          if (window.scrollY > header.offsetHeight) {
+            btn.classList.add('visible');
+          } else {
+            btn.classList.remove('visible');
+          }
+        });
+        btn.addEventListener('click', function () {
+          window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+      })();
+    </script>
   </body>
 </html>
