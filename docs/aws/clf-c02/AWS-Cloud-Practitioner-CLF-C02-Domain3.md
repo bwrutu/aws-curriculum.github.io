@@ -1,8 +1,8 @@
 # AWS Certified Cloud Practitioner (CLF-C02) Domain 3
 ## Cloud Technology and Services
 
-**Official Exam Guide:** [Domain 3: Cloud Technology and Services](https://docs.aws.amazon.com/aws-certification/latest/examguides/cloud-practitioner-02-domain3.html)  
-**Skill Builder:** [AWS Cloud Practitioner Foundational (CLF-C02) Exam Prep](https://skillbuilder.aws/category/exam-prep/cloud-practitioner-foundational-CLF-C02)
+**Official Exam Guide:** [Domain 3: Cloud Technology and Services](https://docs.aws.amazon.com/aws-certification/latest/examguides/cloud-practitioner-02-domain3.html){:target="_blank" rel="noopener noreferrer"}  
+**Skill Builder:** [AWS Cloud Practitioner Foundational (CLF-C02) Exam Prep](https://skillbuilder.aws/category/exam-prep/cloud-practitioner-foundational-CLF-C02){:target="_blank" rel="noopener noreferrer"}
 
 ---
 
@@ -41,26 +41,26 @@
 - Instance types: General purpose, Compute optimized, Memory optimized
 - Pricing: On-Demand, Reserved, Spot, Savings Plans
 - Auto Scaling for elasticity
-- [Amazon EC2](https://aws.amazon.com/ec2/)
+- [Amazon EC2](https://aws.amazon.com/ec2/){:target="_blank" rel="noopener noreferrer"}
 
 #### AWS Lambda
 - Serverless compute - run code without servers
 - Event-driven, automatic scaling
 - Pay only for compute time
 - Use for: Event processing, data transformation, APIs
-- [AWS Lambda](https://aws.amazon.com/lambda/)
+- [AWS Lambda](https://aws.amazon.com/lambda/){:target="_blank" rel="noopener noreferrer"}
 
 #### AWS Elastic Beanstalk
 - Platform as a Service (PaaS)
 - Deploy applications without managing infrastructure
 - Handles capacity provisioning, load balancing, auto-scaling
-- [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)
+- [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/){:target="_blank" rel="noopener noreferrer"}
 
 #### Container Services
 - **Amazon ECS** - AWS container orchestration
 - **Amazon EKS** - Managed Kubernetes
 - **AWS Fargate** - Serverless containers
-- [Amazon ECS](https://aws.amazon.com/ecs/) | [Amazon EKS](https://aws.amazon.com/eks/)
+- [Amazon ECS](https://aws.amazon.com/ecs/){:target="_blank" rel="noopener noreferrer"} | [Amazon EKS](https://aws.amazon.com/eks/){:target="_blank" rel="noopener noreferrer"}
 
 ---
 
@@ -71,19 +71,19 @@
 - 11 9's durability (99.999999999%)
 - Storage classes: Standard, Intelligent-Tiering, Glacier
 - Use for: Backups, data lakes, static websites, archives
-- [Amazon S3](https://aws.amazon.com/s3/)
+- [Amazon S3](https://aws.amazon.com/s3/){:target="_blank" rel="noopener noreferrer"}
 
 #### Amazon EBS (Elastic Block Store)
 - Block storage for EC2 instances
 - Volume types: gp3 (general), io2 (high performance), st1 (throughput), sc1 (cold)
 - Snapshots for backups
-- [Amazon EBS](https://aws.amazon.com/ebs/)
+- [Amazon EBS](https://aws.amazon.com/ebs/){:target="_blank" rel="noopener noreferrer"}
 
 #### Amazon EFS (Elastic File System)
 - Shared file storage for multiple EC2 instances
 - NFS protocol
 - Automatic scaling
-- [Amazon EFS](https://aws.amazon.com/efs/)
+- [Amazon EFS](https://aws.amazon.com/efs/){:target="_blank" rel="noopener noreferrer"}
 
 #### Storage Comparison
 - **S3** - Object storage, web accessible
@@ -100,7 +100,7 @@
 - Multi-AZ for high availability
 - Read replicas for scaling reads
 - Use for: Structured data, ACID transactions
-- [Amazon RDS](https://aws.amazon.com/rds/)
+- [Amazon RDS](https://aws.amazon.com/rds/){:target="_blank" rel="noopener noreferrer"}
 
 #### Amazon DynamoDB
 - Managed NoSQL database
@@ -108,25 +108,25 @@
 - Single-digit millisecond performance
 - Automatic scaling
 - Use for: High-scale applications, gaming, IoT
-- [Amazon DynamoDB](https://aws.amazon.com/dynamodb/)
+- [Amazon DynamoDB](https://aws.amazon.com/dynamodb/){:target="_blank" rel="noopener noreferrer"}
 
 #### Amazon Aurora
 - AWS high-performance relational database
 - MySQL and PostgreSQL compatible
 - 5x faster than MySQL, 3x faster than PostgreSQL
 - Global Database for worldwide replication
-- [Amazon Aurora](https://aws.amazon.com/rds/aurora/)
+- [Amazon Aurora](https://aws.amazon.com/rds/aurora/){:target="_blank" rel="noopener noreferrer"}
 
 #### Amazon Redshift
 - Data warehouse for analytics
 - Petabyte-scale
 - Use for: Business intelligence, analytics
-- [Amazon Redshift](https://aws.amazon.com/redshift/)
+- [Amazon Redshift](https://aws.amazon.com/redshift/){:target="_blank" rel="noopener noreferrer"}
 
 #### Database Migration
 - **AWS DMS** - Database Migration Service
 - **AWS DataSync** - Data transfer service
-- [AWS DMS](https://aws.amazon.com/dms/)
+- [AWS DMS](https://aws.amazon.com/dms/){:target="_blank" rel="noopener noreferrer"}
 
 ---
 
@@ -137,30 +137,30 @@
 - Subnets (public and private)
 - Internet Gateway, NAT Gateway
 - Security Groups, Network ACLs
-- [Amazon VPC](https://aws.amazon.com/vpc/)
+- [Amazon VPC](https://aws.amazon.com/vpc/){:target="_blank" rel="noopener noreferrer"}
 
 #### Elastic Load Balancing (ELB)
 - Distributes traffic across targets
 - Types: Application Load Balancer (ALB), Network Load Balancer (NLB)
 - Improves availability and fault tolerance
-- [Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/)
+- [Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/){:target="_blank" rel="noopener noreferrer"}
 
 #### Amazon CloudFront
 - Content Delivery Network (CDN)
 - Caches content at Edge Locations
 - Reduces latency for global users
-- [Amazon CloudFront](https://aws.amazon.com/cloudfront/)
+- [Amazon CloudFront](https://aws.amazon.com/cloudfront/){:target="_blank" rel="noopener noreferrer"}
 
 #### Amazon Route 53
 - DNS web service
 - Domain registration
 - Health checking and failover
-- [Amazon Route 53](https://aws.amazon.com/route53/)
+- [Amazon Route 53](https://aws.amazon.com/route53/){:target="_blank" rel="noopener noreferrer"}
 
 #### AWS Direct Connect
 - Dedicated network connection to AWS
 - More consistent performance than internet
-- [AWS Direct Connect](https://aws.amazon.com/directconnect/)
+- [AWS Direct Connect](https://aws.amazon.com/directconnect/){:target="_blank" rel="noopener noreferrer"}
 
 ---
 
@@ -170,23 +170,23 @@
 - Users, groups, roles, policies
 - Principle of least privilege
 - Multi-Factor Authentication (MFA)
-- [AWS IAM](https://aws.amazon.com/iam/)
+- [AWS IAM](https://aws.amazon.com/iam/){:target="_blank" rel="noopener noreferrer"}
 
 #### AWS KMS (Key Management Service)
 - Encryption key management
 - Encrypt data at rest
-- [AWS KMS](https://aws.amazon.com/kms/)
+- [AWS KMS](https://aws.amazon.com/kms/){:target="_blank" rel="noopener noreferrer"}
 
 #### AWS Shield
 - DDoS protection
 - Shield Standard (free)
 - Shield Advanced (enhanced protection)
-- [AWS Shield](https://aws.amazon.com/shield/)
+- [AWS Shield](https://aws.amazon.com/shield/){:target="_blank" rel="noopener noreferrer"}
 
 #### AWS WAF (Web Application Firewall)
 - Protects web applications
 - Filter malicious traffic
-- [AWS WAF](https://aws.amazon.com/waf/)
+- [AWS WAF](https://aws.amazon.com/waf/){:target="_blank" rel="noopener noreferrer"}
 
 ---
 
@@ -196,34 +196,34 @@
 - Monitoring and observability
 - Metrics, logs, alarms
 - Monitor AWS resources and applications
-- [Amazon CloudWatch](https://aws.amazon.com/cloudwatch/)
+- [Amazon CloudWatch](https://aws.amazon.com/cloudwatch/){:target="_blank" rel="noopener noreferrer"}
 
 #### AWS CloudTrail
 - Audit logging
 - Tracks API calls and user activity
 - Compliance and security analysis
-- [AWS CloudTrail](https://aws.amazon.com/cloudtrail/)
+- [AWS CloudTrail](https://aws.amazon.com/cloudtrail/){:target="_blank" rel="noopener noreferrer"}
 
 #### AWS CloudFormation
 - Infrastructure as Code (IaC)
 - Define resources in templates
 - Automate provisioning
-- [AWS CloudFormation](https://aws.amazon.com/cloudformation/)
+- [AWS CloudFormation](https://aws.amazon.com/cloudformation/){:target="_blank" rel="noopener noreferrer"}
 
 #### AWS Systems Manager
 - Operational insights and automation
 - Patch management, configuration management
-- [AWS Systems Manager](https://aws.amazon.com/systems-manager/)
+- [AWS Systems Manager](https://aws.amazon.com/systems-manager/){:target="_blank" rel="noopener noreferrer"}
 
 #### AWS Config
 - Track configuration changes
 - Compliance auditing
-- [AWS Config](https://aws.amazon.com/config/)
+- [AWS Config](https://aws.amazon.com/config/){:target="_blank" rel="noopener noreferrer"}
 
 #### AWS Trusted Advisor
 - Best practice recommendations
 - Cost optimization, security, performance
-- [AWS Trusted Advisor](https://aws.amazon.com/premiumsupport/technology/trusted-advisor/)
+- [AWS Trusted Advisor](https://aws.amazon.com/premiumsupport/technology/trusted-advisor/){:target="_blank" rel="noopener noreferrer"}
 
 ---
 
@@ -232,17 +232,17 @@
 #### Amazon SNS (Simple Notification Service)
 - Pub/sub messaging
 - Send notifications to subscribers
-- [Amazon SNS](https://aws.amazon.com/sns/)
+- [Amazon SNS](https://aws.amazon.com/sns/){:target="_blank" rel="noopener noreferrer"}
 
 #### Amazon SQS (Simple Queue Service)
 - Message queuing
 - Decouple application components
-- [Amazon SQS](https://aws.amazon.com/sqs/)
+- [Amazon SQS](https://aws.amazon.com/sqs/){:target="_blank" rel="noopener noreferrer"}
 
 #### AWS Step Functions
 - Orchestrate workflows
 - Coordinate distributed applications
-- [AWS Step Functions](https://aws.amazon.com/step-functions/)
+- [AWS Step Functions](https://aws.amazon.com/step-functions/){:target="_blank" rel="noopener noreferrer"}
 
 ---
 
@@ -251,22 +251,22 @@
 #### Amazon Athena
 - Query S3 data using SQL
 - Serverless
-- [Amazon Athena](https://aws.amazon.com/athena/)
+- [Amazon Athena](https://aws.amazon.com/athena/){:target="_blank" rel="noopener noreferrer"}
 
 #### Amazon EMR (Elastic MapReduce)
 - Big data processing
 - Hadoop, Spark frameworks
-- [Amazon EMR](https://aws.amazon.com/emr/)
+- [Amazon EMR](https://aws.amazon.com/emr/){:target="_blank" rel="noopener noreferrer"}
 
 #### Amazon Kinesis
 - Real-time data streaming
 - Process streaming data
-- [Amazon Kinesis](https://aws.amazon.com/kinesis/)
+- [Amazon Kinesis](https://aws.amazon.com/kinesis/){:target="_blank" rel="noopener noreferrer"}
 
 #### AWS Glue
 - ETL service (Extract, Transform, Load)
 - Data catalog
-- [AWS Glue](https://aws.amazon.com/glue/)
+- [AWS Glue](https://aws.amazon.com/glue/){:target="_blank" rel="noopener noreferrer"}
 
 ---
 
@@ -275,22 +275,22 @@
 #### Amazon SageMaker
 - Build, train, deploy ML models
 - Fully managed
-- [Amazon SageMaker](https://aws.amazon.com/sagemaker/)
+- [Amazon SageMaker](https://aws.amazon.com/sagemaker/){:target="_blank" rel="noopener noreferrer"}
 
 #### Amazon Rekognition
 - Image and video analysis
 - Face detection, object recognition
-- [Amazon Rekognition](https://aws.amazon.com/rekognition/)
+- [Amazon Rekognition](https://aws.amazon.com/rekognition/){:target="_blank" rel="noopener noreferrer"}
 
 #### Amazon Comprehend
 - Natural language processing (NLP)
 - Sentiment analysis, entity recognition
-- [Amazon Comprehend](https://aws.amazon.com/comprehend/)
+- [Amazon Comprehend](https://aws.amazon.com/comprehend/){:target="_blank" rel="noopener noreferrer"}
 
 #### Amazon Lex
 - Build conversational interfaces
 - Chatbots
-- [Amazon Lex](https://aws.amazon.com/lex/)
+- [Amazon Lex](https://aws.amazon.com/lex/){:target="_blank" rel="noopener noreferrer"}
 
 ---
 
@@ -299,46 +299,46 @@
 #### AWS CodeCommit
 - Source control (like GitHub)
 - Git repositories
-- [AWS CodeCommit](https://aws.amazon.com/codecommit/)
+- [AWS CodeCommit](https://aws.amazon.com/codecommit/){:target="_blank" rel="noopener noreferrer"}
 
 #### AWS CodeBuild
 - Compile source code, run tests
 - Continuous integration
-- [AWS CodeBuild](https://aws.amazon.com/codebuild/)
+- [AWS CodeBuild](https://aws.amazon.com/codebuild/){:target="_blank" rel="noopener noreferrer"}
 
 #### AWS CodeDeploy
 - Automated deployment
 - Deploy to EC2, Lambda, on-premises
-- [AWS CodeDeploy](https://aws.amazon.com/codedeploy/)
+- [AWS CodeDeploy](https://aws.amazon.com/codedeploy/){:target="_blank" rel="noopener noreferrer"}
 
 #### AWS CodePipeline
 - Continuous delivery
 - Automate release pipelines
-- [AWS CodePipeline](https://aws.amazon.com/codepipeline/)
+- [AWS CodePipeline](https://aws.amazon.com/codepipeline/){:target="_blank" rel="noopener noreferrer"}
 
 ---
 
 ## AWS Service FAQs (Essential Reading)
 
-- [EC2 FAQs](https://aws.amazon.com/ec2/faqs/)
-- [S3 FAQs](https://aws.amazon.com/s3/faqs/)
-- [Lambda FAQs](https://aws.amazon.com/lambda/faqs/)
-- [RDS FAQs](https://aws.amazon.com/rds/faqs/)
-- [DynamoDB FAQs](https://aws.amazon.com/dynamodb/faqs/)
-- [VPC FAQs](https://aws.amazon.com/vpc/faqs/)
-- [CloudFront FAQs](https://aws.amazon.com/cloudfront/faqs/)
-- [Route 53 FAQs](https://aws.amazon.com/route53/faqs/)
-- [CloudWatch FAQs](https://aws.amazon.com/cloudwatch/faqs/)
-- [CloudFormation FAQs](https://aws.amazon.com/cloudformation/faqs/)
+- [EC2 FAQs](https://aws.amazon.com/ec2/faqs/){:target="_blank" rel="noopener noreferrer"}
+- [S3 FAQs](https://aws.amazon.com/s3/faqs/){:target="_blank" rel="noopener noreferrer"}
+- [Lambda FAQs](https://aws.amazon.com/lambda/faqs/){:target="_blank" rel="noopener noreferrer"}
+- [RDS FAQs](https://aws.amazon.com/rds/faqs/){:target="_blank" rel="noopener noreferrer"}
+- [DynamoDB FAQs](https://aws.amazon.com/dynamodb/faqs/){:target="_blank" rel="noopener noreferrer"}
+- [VPC FAQs](https://aws.amazon.com/vpc/faqs/){:target="_blank" rel="noopener noreferrer"}
+- [CloudFront FAQs](https://aws.amazon.com/cloudfront/faqs/){:target="_blank" rel="noopener noreferrer"}
+- [Route 53 FAQs](https://aws.amazon.com/route53/faqs/){:target="_blank" rel="noopener noreferrer"}
+- [CloudWatch FAQs](https://aws.amazon.com/cloudwatch/faqs/){:target="_blank" rel="noopener noreferrer"}
+- [CloudFormation FAQs](https://aws.amazon.com/cloudformation/faqs/){:target="_blank" rel="noopener noreferrer"}
 
 ---
 
 ## AWS Whitepapers
 
-1. **[AWS Overview](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html)**
-2. **[Architecting for the Cloud](https://docs.aws.amazon.com/whitepapers/latest/architecting-for-the-cloud-aws-best-practices/introduction.html)**
-3. **[AWS Storage Services Overview](https://docs.aws.amazon.com/whitepapers/latest/aws-storage-services-overview/welcome.html)**
-4. **[AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)**
+1. **[AWS Overview](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html){:target="_blank" rel="noopener noreferrer"}**
+2. **[Architecting for the Cloud](https://docs.aws.amazon.com/whitepapers/latest/architecting-for-the-cloud-aws-best-practices/introduction.html){:target="_blank" rel="noopener noreferrer"}**
+3. **[AWS Storage Services Overview](https://docs.aws.amazon.com/whitepapers/latest/aws-storage-services-overview/welcome.html){:target="_blank" rel="noopener noreferrer"}**
+4. **[AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html){:target="_blank" rel="noopener noreferrer"}**
 
 ---
 

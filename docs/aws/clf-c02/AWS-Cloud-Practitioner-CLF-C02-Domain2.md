@@ -1,8 +1,8 @@
 # AWS Certified Cloud Practitioner (CLF-C02) Domain 2
 ## Security and Compliance
 
-**Official Exam Guide:** [Domain 2: Security and Compliance](https://docs.aws.amazon.com/aws-certification/latest/examguides/cloud-practitioner-02-domain2.html)  
-**Skill Builder:** [AWS Cloud Practitioner Foundational (CLF-C02) Exam Prep](https://skillbuilder.aws/category/exam-prep/cloud-practitioner-foundational-CLF-C02)
+**Official Exam Guide:** [Domain 2: Security and Compliance](https://docs.aws.amazon.com/aws-certification/latest/examguides/cloud-practitioner-02-domain2.html){:target="_blank" rel="noopener noreferrer"}  
+**Skill Builder:** [AWS Cloud Practitioner Foundational (CLF-C02) Exam Prep](https://skillbuilder.aws/category/exam-prep/cloud-practitioner-foundational-CLF-C02){:target="_blank" rel="noopener noreferrer"}
 
 Note: Some Skill Builder labs require a subscription.
 
@@ -45,30 +45,30 @@ Note: Some Skill Builder labs require a subscription.
 **Why:** Understanding what AWS manages is critical for the exam. AWS is responsible for protecting the infrastructure (physical security, hardware, networking, hypervisor). Exam questions test whether you know AWS handles tasks like data center security, hardware patching, and network infrastructure. This prevents you from incorrectly assuming you need to manage these aspects.
 
 **AWS Documentation:**
-- [AWS Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/)
-- [Security of the AWS Cloud](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/security-and-compliance.html)
-- [AWS Global Infrastructure Security](https://aws.amazon.com/compliance/data-center/controls/)
-- [Physical and Environmental Security](https://aws.amazon.com/compliance/data-center/)
+- [AWS Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/){:target="_blank" rel="noopener noreferrer"}
+- [Security of the AWS Cloud](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/security-and-compliance.html){:target="_blank" rel="noopener noreferrer"}
+- [AWS Global Infrastructure Security](https://aws.amazon.com/compliance/data-center/controls/){:target="_blank" rel="noopener noreferrer"}
+- [Physical and Environmental Security](https://aws.amazon.com/compliance/data-center/){:target="_blank" rel="noopener noreferrer"}
 
 #### 2. Customer responsibility (security IN the cloud)
 
 **Why:** Customers are responsible for securing their data, applications, IAM, operating systems, and network configuration. Exam questions frequently test whether you understand customer responsibilities like configuring Security Groups, encrypting data, and managing IAM users. Knowing the customer's security responsibilities helps you answer questions about what actions YOU must take to secure workloads.
 
 **AWS Documentation:**
-- [Customer Responsibility](https://aws.amazon.com/compliance/shared-responsibility-model/)
-- [Security Best Practices](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/welcome.html)
-- [AWS Security Best Practices](https://aws.amazon.com/architecture/security-identity-compliance/)
-- [Shared Responsibility Model Examples](https://aws.amazon.com/blogs/security/shared-responsibility-model/)
+- [Customer Responsibility](https://aws.amazon.com/compliance/shared-responsibility-model/){:target="_blank" rel="noopener noreferrer"}
+- [Security Best Practices](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/welcome.html){:target="_blank" rel="noopener noreferrer"}
+- [AWS Security Best Practices](https://aws.amazon.com/architecture/security-identity-compliance/){:target="_blank" rel="noopener noreferrer"}
+- [Shared Responsibility Model Examples](https://aws.amazon.com/blogs/security/shared-responsibility-model/){:target="_blank" rel="noopener noreferrer"}
 
 #### 3. Shared controls (for example, patch management, configuration management, awareness and training)
 
 **Why:** Some security controls are shared between AWS and customers. AWS patches the infrastructure (hypervisor, physical systems), but customers patch operating systems and applications. Understanding shared controls helps you answer questions about who patches what, who manages configuration, and security training responsibilities.
 
 **AWS Documentation:**
-- [Shared Controls](https://aws.amazon.com/compliance/shared-responsibility-model/)
-- [Patch Management](https://aws.amazon.com/systems-manager/features/#Patch_Manager)
-- [AWS Systems Manager](https://aws.amazon.com/systems-manager/)
-- [Configuration Management](https://aws.amazon.com/config/)
+- [Shared Controls](https://aws.amazon.com/compliance/shared-responsibility-model/){:target="_blank" rel="noopener noreferrer"}
+- [Patch Management](https://aws.amazon.com/systems-manager/features/#Patch_Manager){:target="_blank" rel="noopener noreferrer"}
+- [AWS Systems Manager](https://aws.amazon.com/systems-manager/){:target="_blank" rel="noopener noreferrer"}
+- [Configuration Management](https://aws.amazon.com/config/){:target="_blank" rel="noopener noreferrer"}
 
 ---
 
@@ -81,55 +81,55 @@ Note: Some Skill Builder labs require a subscription.
 **Why:** Organizations need compliance documentation for audits and certifications. AWS Artifact provides access to compliance reports (SOC, PCI, ISO). Exam questions test whether you know where to find compliance documentation and which compliance programs apply to specific industries. Understanding AWS compliance programs helps you answer questions about meeting regulatory requirements.
 
 **AWS Documentation:**
-- [AWS Compliance](https://aws.amazon.com/compliance/)
-- [AWS Artifact](https://aws.amazon.com/artifact/)
-- [AWS Compliance Programs](https://aws.amazon.com/compliance/programs/)
-- [HIPAA Compliance](https://aws.amazon.com/compliance/hipaa-compliance/)
-- [PCI DSS Compliance](https://aws.amazon.com/compliance/pci-dss-level-1-faqs/)
-- [SOC Compliance](https://aws.amazon.com/compliance/soc-faqs/)
-- [GDPR](https://aws.amazon.com/compliance/gdpr-center/)
-- [FedRAMP](https://aws.amazon.com/compliance/fedramp/)
-- [ISO Certifications](https://aws.amazon.com/compliance/iso-certified/)
+- [AWS Compliance](https://aws.amazon.com/compliance/){:target="_blank" rel="noopener noreferrer"}
+- [AWS Artifact](https://aws.amazon.com/artifact/){:target="_blank" rel="noopener noreferrer"}
+- [AWS Compliance Programs](https://aws.amazon.com/compliance/programs/){:target="_blank" rel="noopener noreferrer"}
+- [HIPAA Compliance](https://aws.amazon.com/compliance/hipaa-compliance/){:target="_blank" rel="noopener noreferrer"}
+- [PCI DSS Compliance](https://aws.amazon.com/compliance/pci-dss-level-1-faqs/){:target="_blank" rel="noopener noreferrer"}
+- [SOC Compliance](https://aws.amazon.com/compliance/soc-faqs/){:target="_blank" rel="noopener noreferrer"}
+- [GDPR](https://aws.amazon.com/compliance/gdpr-center/){:target="_blank" rel="noopener noreferrer"}
+- [FedRAMP](https://aws.amazon.com/compliance/fedramp/){:target="_blank" rel="noopener noreferrer"}
+- [ISO Certifications](https://aws.amazon.com/compliance/iso-certified/){:target="_blank" rel="noopener noreferrer"}
 
 #### 2. Identification and access management (for example, AWS Identity and Access Management [IAM], AWS IAM Identity Center [AWS Single Sign-On])
 
 **Why:** IAM is the most critical security service and appears throughout the exam. You must understand IAM users, groups, roles, and policies. Exam questions test your ability to identify correct IAM solutions for granting permissions, implementing least privilege, and managing access. IAM Identity Center (SSO) helps manage access across multiple AWS accounts.
 
 **AWS Documentation:**
-- [AWS IAM](https://aws.amazon.com/iam/)
-- [IAM User Guide](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html)
-- [IAM Best Practices](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
-- [IAM Policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies.html)
-- [IAM Roles](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles.html)
-- [IAM Users and Groups](https://docs.aws.amazon.com/IAM/latest/UserGuide/id.html)
-- [Multi-Factor Authentication (MFA)](https://aws.amazon.com/iam/features/mfa/)
-- [AWS IAM Identity Center](https://aws.amazon.com/iam/identity-center/)
-- [Principle of Least Privilege](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html#grant-least-privilege)
+- [AWS IAM](https://aws.amazon.com/iam/){:target="_blank" rel="noopener noreferrer"}
+- [IAM User Guide](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html){:target="_blank" rel="noopener noreferrer"}
+- [IAM Best Practices](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html){:target="_blank" rel="noopener noreferrer"}
+- [IAM Policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies.html){:target="_blank" rel="noopener noreferrer"}
+- [IAM Roles](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles.html){:target="_blank" rel="noopener noreferrer"}
+- [IAM Users and Groups](https://docs.aws.amazon.com/IAM/latest/UserGuide/id.html){:target="_blank" rel="noopener noreferrer"}
+- [Multi-Factor Authentication (MFA)](https://aws.amazon.com/iam/features/mfa/){:target="_blank" rel="noopener noreferrer"}
+- [AWS IAM Identity Center](https://aws.amazon.com/iam/identity-center/){:target="_blank" rel="noopener noreferrer"}
+- [Principle of Least Privilege](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html#grant-least-privilege){:target="_blank" rel="noopener noreferrer"}
 
 #### 3. Security best practices (for example, least privilege, separation of duties)
 
 **Why:** Security best practices like least privilege and separation of duties are fundamental principles tested throughout Domain 2. Exam questions present scenarios and ask you to identify which best practice applies or recommend secure solutions. Understanding these principles helps you evaluate whether a proposed solution follows AWS security recommendations.
 
 **AWS Documentation:**
-- [Security Best Practices in IAM](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
-- [Least Privilege](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html#grant-least-privilege)
-- [Separation of Duties](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
-- [Defense in Depth](https://aws.amazon.com/architecture/security-identity-compliance/)
-- [Security Pillar - Design Principles](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/design-principles.html)
+- [Security Best Practices in IAM](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html){:target="_blank" rel="noopener noreferrer"}
+- [Least Privilege](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html#grant-least-privilege){:target="_blank" rel="noopener noreferrer"}
+- [Separation of Duties](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html){:target="_blank" rel="noopener noreferrer"}
+- [Defense in Depth](https://aws.amazon.com/architecture/security-identity-compliance/){:target="_blank" rel="noopener noreferrer"}
+- [Security Pillar - Design Principles](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/design-principles.html){:target="_blank" rel="noopener noreferrer"}
 
 #### 4. AWS security services (for example, AWS CloudTrail, Amazon GuardDuty, AWS Security Hub, AWS Inspector, AWS Config)
 
 **Why:** AWS provides multiple security services for different purposes. CloudTrail logs API calls, GuardDuty detects threats, Security Hub provides central security view, Inspector scans for vulnerabilities, and Config tracks configuration changes. Exam questions test your ability to identify which service solves specific security monitoring and compliance needs.
 
 **AWS Documentation:**
-- [AWS CloudTrail](https://aws.amazon.com/cloudtrail/)
-- [Amazon GuardDuty](https://aws.amazon.com/guardduty/)
-- [AWS Security Hub](https://aws.amazon.com/security-hub/)
-- [Amazon Inspector](https://aws.amazon.com/inspector/)
-- [AWS Config](https://aws.amazon.com/config/)
-- [AWS CloudWatch](https://aws.amazon.com/cloudwatch/)
-- [Amazon Macie](https://aws.amazon.com/macie/)
-- [AWS Audit Manager](https://aws.amazon.com/audit-manager/)
+- [AWS CloudTrail](https://aws.amazon.com/cloudtrail/){:target="_blank" rel="noopener noreferrer"}
+- [Amazon GuardDuty](https://aws.amazon.com/guardduty/){:target="_blank" rel="noopener noreferrer"}
+- [AWS Security Hub](https://aws.amazon.com/security-hub/){:target="_blank" rel="noopener noreferrer"}
+- [Amazon Inspector](https://aws.amazon.com/inspector/){:target="_blank" rel="noopener noreferrer"}
+- [AWS Config](https://aws.amazon.com/config/){:target="_blank" rel="noopener noreferrer"}
+- [AWS CloudWatch](https://aws.amazon.com/cloudwatch/){:target="_blank" rel="noopener noreferrer"}
+- [Amazon Macie](https://aws.amazon.com/macie/){:target="_blank" rel="noopener noreferrer"}
+- [AWS Audit Manager](https://aws.amazon.com/audit-manager/){:target="_blank" rel="noopener noreferrer"}
 
 ---
 
@@ -142,44 +142,44 @@ Note: Some Skill Builder labs require a subscription.
 **Why:** Understanding the difference between users (individual identities), groups (collections of users), and roles (temporary access for services/users) is fundamental. Exam questions frequently ask you to identify the correct IAM construct for specific scenarios (e.g., use roles for EC2 instances to access S3, not access keys).
 
 **AWS Documentation:**
-- [IAM Users](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users.html)
-- [IAM Groups](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_groups.html)
-- [IAM Roles](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles.html)
-- [When to Create IAM Users](https://docs.aws.amazon.com/IAM/latest/UserGuide/id.html#id_which-to-choose)
-- [Using Roles vs Resource-based Policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_compare-resource-policies.html)
+- [IAM Users](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users.html){:target="_blank" rel="noopener noreferrer"}
+- [IAM Groups](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_groups.html){:target="_blank" rel="noopener noreferrer"}
+- [IAM Roles](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles.html){:target="_blank" rel="noopener noreferrer"}
+- [When to Create IAM Users](https://docs.aws.amazon.com/IAM/latest/UserGuide/id.html#id_which-to-choose){:target="_blank" rel="noopener noreferrer"}
+- [Using Roles vs Resource-based Policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_compare-resource-policies.html){:target="_blank" rel="noopener noreferrer"}
 
 #### 2. IAM policies (for example, AWS managed policies, customer managed policies, inline policies)
 
 **Why:** IAM policies define permissions and are tested extensively. You must understand the difference between AWS managed (AWS maintains), customer managed (you create and maintain), and inline policies (embedded in user/role). Exam questions ask you to identify appropriate policy types and evaluate policy permissions.
 
 **AWS Documentation:**
-- [IAM Policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies.html)
-- [Managed Policies vs Inline Policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_managed-vs-inline.html)
-- [AWS Managed Policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_managed-vs-inline.html#aws-managed-policies)
-- [Customer Managed Policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_managed-vs-inline.html#customer-managed-policies)
-- [Policy Evaluation Logic](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_evaluation-logic.html)
+- [IAM Policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies.html){:target="_blank" rel="noopener noreferrer"}
+- [Managed Policies vs Inline Policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_managed-vs-inline.html){:target="_blank" rel="noopener noreferrer"}
+- [AWS Managed Policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_managed-vs-inline.html#aws-managed-policies){:target="_blank" rel="noopener noreferrer"}
+- [Customer Managed Policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_managed-vs-inline.html#customer-managed-policies){:target="_blank" rel="noopener noreferrer"}
+- [Policy Evaluation Logic](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_evaluation-logic.html){:target="_blank" rel="noopener noreferrer"}
 
 #### 3. Multi-factor authentication (MFA)
 
 **Why:** MFA adds an extra layer of security beyond passwords. Exam questions test whether you understand when to require MFA (root account, privileged users, sensitive operations). MFA is a critical security best practice and frequently appears in security-focused scenarios.
 
 **AWS Documentation:**
-- [Multi-Factor Authentication](https://aws.amazon.com/iam/features/mfa/)
-- [Using MFA in AWS](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa.html)
-- [MFA for Root Account](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_root-user.html#id_root-user_manage_mfa)
-- [Virtual MFA Devices](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa_enable_virtual.html)
-- [Hardware MFA Devices](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa_enable_physical.html)
+- [Multi-Factor Authentication](https://aws.amazon.com/iam/features/mfa/){:target="_blank" rel="noopener noreferrer"}
+- [Using MFA in AWS](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa.html){:target="_blank" rel="noopener noreferrer"}
+- [MFA for Root Account](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_root-user.html#id_root-user_manage_mfa){:target="_blank" rel="noopener noreferrer"}
+- [Virtual MFA Devices](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa_enable_virtual.html){:target="_blank" rel="noopener noreferrer"}
+- [Hardware MFA Devices](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa_enable_physical.html){:target="_blank" rel="noopener noreferrer"}
 
 #### 4. Temporary security credentials (for example, AWS Security Token Service [AWS STS], AWS IAM Identity Center)
 
 **Why:** Temporary credentials are more secure than long-term access keys. AWS STS generates temporary credentials for roles, while IAM Identity Center provides temporary access for federated users. Exam questions test whether you understand when to use temporary credentials instead of permanent access keys.
 
 **AWS Documentation:**
-- [AWS Security Token Service (STS)](https://docs.aws.amazon.com/STS/latest/APIReference/welcome.html)
-- [Temporary Security Credentials](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp.html)
-- [Requesting Temporary Security Credentials](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp_request.html)
-- [AWS IAM Identity Center](https://aws.amazon.com/iam/identity-center/)
-- [Federation](https://aws.amazon.com/identity/federation/)
+- [AWS Security Token Service (STS)](https://docs.aws.amazon.com/STS/latest/APIReference/welcome.html){:target="_blank" rel="noopener noreferrer"}
+- [Temporary Security Credentials](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp.html){:target="_blank" rel="noopener noreferrer"}
+- [Requesting Temporary Security Credentials](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp_request.html){:target="_blank" rel="noopener noreferrer"}
+- [AWS IAM Identity Center](https://aws.amazon.com/iam/identity-center/){:target="_blank" rel="noopener noreferrer"}
+- [Federation](https://aws.amazon.com/identity/federation/){:target="_blank" rel="noopener noreferrer"}
 
 ---
 
@@ -192,71 +192,71 @@ Note: Some Skill Builder labs require a subscription.
 **Why:** Network security controls protect your AWS resources from unauthorized access. Security Groups act as virtual firewalls for instances, NACLs provide subnet-level security, WAF protects web applications, and Network Firewall provides VPC-level protection. Exam questions test your ability to identify the correct network security tool for different scenarios.
 
 **AWS Documentation:**
-- [Amazon VPC Security](https://docs.aws.amazon.com/vpc/latest/userguide/security.html)
-- [Security Groups](https://docs.aws.amazon.com/vpc/latest/userguide/security-groups.html)
-- [Network ACLs](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-network-acls.html)
-- [AWS WAF](https://aws.amazon.com/waf/)
-- [AWS Network Firewall](https://aws.amazon.com/network-firewall/)
-- [AWS Shield](https://aws.amazon.com/shield/)
-- [Comparison: Security Groups vs NACLs](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-groups.html#security-group-nacl-comparison)
+- [Amazon VPC Security](https://docs.aws.amazon.com/vpc/latest/userguide/security.html){:target="_blank" rel="noopener noreferrer"}
+- [Security Groups](https://docs.aws.amazon.com/vpc/latest/userguide/security-groups.html){:target="_blank" rel="noopener noreferrer"}
+- [Network ACLs](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-network-acls.html){:target="_blank" rel="noopener noreferrer"}
+- [AWS WAF](https://aws.amazon.com/waf/){:target="_blank" rel="noopener noreferrer"}
+- [AWS Network Firewall](https://aws.amazon.com/network-firewall/){:target="_blank" rel="noopener noreferrer"}
+- [AWS Shield](https://aws.amazon.com/shield/){:target="_blank" rel="noopener noreferrer"}
+- [Comparison: Security Groups vs NACLs](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-groups.html#security-group-nacl-comparison){:target="_blank" rel="noopener noreferrer"}
 
 #### 2. Encryption (for example, AWS Key Management Service [AWS KMS], AWS Certificate Manager [ACM], AWS Secrets Manager)
 
 **Why:** Encryption protects data at rest and in transit. KMS manages encryption keys, ACM manages SSL/TLS certificates, and Secrets Manager stores sensitive information like database passwords. Exam questions test your knowledge of which service to use for different encryption scenarios and when encryption is required.
 
 **AWS Documentation:**
-- [AWS Key Management Service (KMS)](https://aws.amazon.com/kms/)
-- [KMS Developer Guide](https://docs.aws.amazon.com/kms/latest/developerguide/overview.html)
-- [AWS Certificate Manager](https://aws.amazon.com/certificate-manager/)
-- [AWS Secrets Manager](https://aws.amazon.com/secrets-manager/)
-- [Encryption at Rest](https://docs.aws.amazon.com/whitepapers/latest/efs-encrypted-file-systems/encryption-of-data-at-rest.html)
-- [Encryption in Transit](https://docs.aws.amazon.com/whitepapers/latest/efs-encrypted-file-systems/encryption-of-data-in-transit.html)
-- [AWS CloudHSM](https://aws.amazon.com/cloudhsm/)
+- [AWS Key Management Service (KMS)](https://aws.amazon.com/kms/){:target="_blank" rel="noopener noreferrer"}
+- [KMS Developer Guide](https://docs.aws.amazon.com/kms/latest/developerguide/overview.html){:target="_blank" rel="noopener noreferrer"}
+- [AWS Certificate Manager](https://aws.amazon.com/certificate-manager/){:target="_blank" rel="noopener noreferrer"}
+- [AWS Secrets Manager](https://aws.amazon.com/secrets-manager/){:target="_blank" rel="noopener noreferrer"}
+- [Encryption at Rest](https://docs.aws.amazon.com/whitepapers/latest/efs-encrypted-file-systems/encryption-of-data-at-rest.html){:target="_blank" rel="noopener noreferrer"}
+- [Encryption in Transit](https://docs.aws.amazon.com/whitepapers/latest/efs-encrypted-file-systems/encryption-of-data-in-transit.html){:target="_blank" rel="noopener noreferrer"}
+- [AWS CloudHSM](https://aws.amazon.com/cloudhsm/){:target="_blank" rel="noopener noreferrer"}
 
 #### 3. DDoS protection (for example, AWS Shield)
 
 **Why:** DDoS attacks can make applications unavailable. AWS Shield provides DDoS protection (Standard is free, Advanced provides enhanced protection). Exam questions test whether you know Shield protects against DDoS attacks and when to use Shield Advanced for mission-critical applications.
 
 **AWS Documentation:**
-- [AWS Shield](https://aws.amazon.com/shield/)
-- [Shield Standard](https://docs.aws.amazon.com/waf/latest/developerguide/shield-chapter.html)
-- [Shield Advanced](https://docs.aws.amazon.com/waf/latest/developerguide/shield-advanced.html)
-- [DDoS Resiliency](https://docs.aws.amazon.com/whitepapers/latest/aws-best-practices-ddos-resiliency/welcome.html)
+- [AWS Shield](https://aws.amazon.com/shield/){:target="_blank" rel="noopener noreferrer"}
+- [Shield Standard](https://docs.aws.amazon.com/waf/latest/developerguide/shield-chapter.html){:target="_blank" rel="noopener noreferrer"}
+- [Shield Advanced](https://docs.aws.amazon.com/waf/latest/developerguide/shield-advanced.html){:target="_blank" rel="noopener noreferrer"}
+- [DDoS Resiliency](https://docs.aws.amazon.com/whitepapers/latest/aws-best-practices-ddos-resiliency/welcome.html){:target="_blank" rel="noopener noreferrer"}
 
 #### 4. Data classification (for example, Amazon Macie)
 
 **Why:** Amazon Macie automatically discovers and classifies sensitive data like PII (Personally Identifiable Information). Exam questions test whether you know Macie helps with data discovery, classification, and protection for compliance requirements.
 
 **AWS Documentation:**
-- [Amazon Macie](https://aws.amazon.com/macie/)
-- [Macie User Guide](https://docs.aws.amazon.com/macie/latest/user/what-is-macie.html)
-- [Data Classification](https://aws.amazon.com/blogs/security/how-to-classify-your-data-using-amazon-macie/)
+- [Amazon Macie](https://aws.amazon.com/macie/){:target="_blank" rel="noopener noreferrer"}
+- [Macie User Guide](https://docs.aws.amazon.com/macie/latest/user/what-is-macie.html){:target="_blank" rel="noopener noreferrer"}
+- [Data Classification](https://aws.amazon.com/blogs/security/how-to-classify-your-data-using-amazon-macie/){:target="_blank" rel="noopener noreferrer"}
 
 ---
 
 ## AWS Service FAQs (Recommended Reading)
 
-- [IAM FAQs](https://aws.amazon.com/iam/faqs/)
-- [KMS FAQs](https://aws.amazon.com/kms/faqs/)
-- [CloudTrail FAQs](https://aws.amazon.com/cloudtrail/faqs/)
-- [GuardDuty FAQs](https://aws.amazon.com/guardduty/faqs/)
-- [Shield FAQs](https://aws.amazon.com/shield/faqs/)
-- [WAF FAQs](https://aws.amazon.com/waf/faqs/)
-- [Security Hub FAQs](https://aws.amazon.com/security-hub/faqs/)
-- [Inspector FAQs](https://aws.amazon.com/inspector/faqs/)
-- [Config FAQs](https://aws.amazon.com/config/faq/)
-- [Artifact FAQs](https://aws.amazon.com/artifact/faq/)
+- [IAM FAQs](https://aws.amazon.com/iam/faqs/){:target="_blank" rel="noopener noreferrer"}
+- [KMS FAQs](https://aws.amazon.com/kms/faqs/){:target="_blank" rel="noopener noreferrer"}
+- [CloudTrail FAQs](https://aws.amazon.com/cloudtrail/faqs/){:target="_blank" rel="noopener noreferrer"}
+- [GuardDuty FAQs](https://aws.amazon.com/guardduty/faqs/){:target="_blank" rel="noopener noreferrer"}
+- [Shield FAQs](https://aws.amazon.com/shield/faqs/){:target="_blank" rel="noopener noreferrer"}
+- [WAF FAQs](https://aws.amazon.com/waf/faqs/){:target="_blank" rel="noopener noreferrer"}
+- [Security Hub FAQs](https://aws.amazon.com/security-hub/faqs/){:target="_blank" rel="noopener noreferrer"}
+- [Inspector FAQs](https://aws.amazon.com/inspector/faqs/){:target="_blank" rel="noopener noreferrer"}
+- [Config FAQs](https://aws.amazon.com/config/faq/){:target="_blank" rel="noopener noreferrer"}
+- [Artifact FAQs](https://aws.amazon.com/artifact/faq/){:target="_blank" rel="noopener noreferrer"}
 
 ---
 
 ## AWS Whitepapers (Essential Reading)
 
-1. **[AWS Security Pillar](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/welcome.html)** - Security best practices and design principles
-2. **[Introduction to AWS Security](https://docs.aws.amazon.com/whitepapers/latest/introduction-aws-security/welcome.html)** - Comprehensive security overview
-3. **[AWS Security Best Practices](https://aws.amazon.com/architecture/security-identity-compliance/)** - Security implementation guidance
-4. **[Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/)** - Understanding security responsibilities
-5. **[AWS Compliance](https://aws.amazon.com/compliance/)** - Compliance programs and certifications
-6. **[DDoS Resiliency Best Practices](https://docs.aws.amazon.com/whitepapers/latest/aws-best-practices-ddos-resiliency/welcome.html)** - DDoS protection strategies
+1. **[AWS Security Pillar](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/welcome.html){:target="_blank" rel="noopener noreferrer"}** - Security best practices and design principles
+2. **[Introduction to AWS Security](https://docs.aws.amazon.com/whitepapers/latest/introduction-aws-security/welcome.html){:target="_blank" rel="noopener noreferrer"}** - Comprehensive security overview
+3. **[AWS Security Best Practices](https://aws.amazon.com/architecture/security-identity-compliance/){:target="_blank" rel="noopener noreferrer"}** - Security implementation guidance
+4. **[Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/){:target="_blank" rel="noopener noreferrer"}** - Understanding security responsibilities
+5. **[AWS Compliance](https://aws.amazon.com/compliance/){:target="_blank" rel="noopener noreferrer"}** - Compliance programs and certifications
+6. **[DDoS Resiliency Best Practices](https://docs.aws.amazon.com/whitepapers/latest/aws-best-practices-ddos-resiliency/welcome.html){:target="_blank" rel="noopener noreferrer"}** - DDoS protection strategies
 
 ---
 

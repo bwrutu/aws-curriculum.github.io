@@ -1,8 +1,8 @@
 # AWS Certified Cloud Practitioner (CLF-C02) Domain 1
 ## Cloud Concepts
 
-**Official Exam Guide:** [Domain 1: Cloud Concepts](https://docs.aws.amazon.com/aws-certification/latest/examguides/cloud-practitioner-02-domain1.html)  
-**Skill Builder:** [AWS Cloud Practitioner Foundational (CLF-C02) Exam Prep](https://skillbuilder.aws/category/exam-prep/cloud-practitioner-foundational-CLF-C02)
+**Official Exam Guide:** [Domain 1: Cloud Concepts](https://docs.aws.amazon.com/aws-certification/latest/examguides/cloud-practitioner-02-domain1.html){:target="_blank" rel="noopener noreferrer"}  
+**Skill Builder:** [AWS Cloud Practitioner Foundational (CLF-C02) Exam Prep](https://skillbuilder.aws/category/exam-prep/cloud-practitioner-foundational-CLF-C02){:target="_blank" rel="noopener noreferrer"}
 
 Note: Some Skill Builder labs require a subscription.
 
@@ -45,40 +45,40 @@ Note: Some Skill Builder labs require a subscription.
 **Why:** Understanding the business value of AWS is fundamental to the Cloud Practitioner exam. Questions frequently present business scenarios (cost concerns, scalability needs, global expansion) and ask you to identify which AWS benefit addresses that challenge. This knowledge area also helps you explain cloud computing to non-technical stakeholders, a key Cloud Practitioner responsibility. The value proposition appears in questions across all domains, making it essential foundational knowledge.
 
 **AWS Documentation:**
-- [What is Cloud Computing?](https://aws.amazon.com/what-is-cloud-computing/)
-- [Types of Cloud Computing](https://aws.amazon.com/types-of-cloud-computing/)
-- [Six Advantages of Cloud Computing](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html)
-- [AWS Cloud Value Framework](https://aws.amazon.com/economics/)
-- [AWS Executive Insights](https://aws.amazon.com/executive-insights/)
-- [Cloud Economics Center](https://aws.amazon.com/economics/)
-- [AWS Pricing Philosophy](https://aws.amazon.com/pricing/)
+- [What is Cloud Computing?](https://aws.amazon.com/what-is-cloud-computing/){:target="_blank" rel="noopener noreferrer"}
+- [Types of Cloud Computing](https://aws.amazon.com/types-of-cloud-computing/){:target="_blank" rel="noopener noreferrer"}
+- [Six Advantages of Cloud Computing](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html){:target="_blank" rel="noopener noreferrer"}
+- [AWS Cloud Value Framework](https://aws.amazon.com/economics/){:target="_blank" rel="noopener noreferrer"}
+- [AWS Executive Insights](https://aws.amazon.com/executive-insights/){:target="_blank" rel="noopener noreferrer"}
+- [Cloud Economics Center](https://aws.amazon.com/economics/){:target="_blank" rel="noopener noreferrer"}
+- [AWS Pricing Philosophy](https://aws.amazon.com/pricing/){:target="_blank" rel="noopener noreferrer"}
 
 #### 2. AWS Cloud economics (for example, cost savings, pay-as-you-go pricing, economies of scale)
 
 **Why:** Cloud economics is tested heavily across Domain 1 and Domain 4. You must understand not just that AWS is "pay-as-you-go," but why this matters (no upfront infrastructure costs, reduced TCO, operational expense vs capital expense). Exam questions often ask you to identify cost benefits in business scenarios or explain cloud economics to executives. Understanding economies of scale helps you explain why AWS can offer lower prices than on-premises infrastructure.
 
 **AWS Documentation:**
-- [AWS Pricing](https://aws.amazon.com/pricing/)
-- [AWS Cloud Economics](https://aws.amazon.com/economics/)
-- [How AWS Pricing Works](https://docs.aws.amazon.com/whitepapers/latest/how-aws-pricing-works/welcome.html)
-- [Total Cost of Ownership (TCO) Calculator](https://aws.amazon.com/tco-calculator/)
-- [AWS Pricing Calculator](https://calculator.aws/)
-- [CapEx vs OpEx on AWS](https://aws.amazon.com/economics/capex-vs-opex/)
+- [AWS Pricing](https://aws.amazon.com/pricing/){:target="_blank" rel="noopener noreferrer"}
+- [AWS Cloud Economics](https://aws.amazon.com/economics/){:target="_blank" rel="noopener noreferrer"}
+- [How AWS Pricing Works](https://docs.aws.amazon.com/whitepapers/latest/how-aws-pricing-works/welcome.html){:target="_blank" rel="noopener noreferrer"}
+- [Total Cost of Ownership (TCO) Calculator](https://aws.amazon.com/tco-calculator/){:target="_blank" rel="noopener noreferrer"}
+- [AWS Pricing Calculator](https://calculator.aws/){:target="_blank" rel="noopener noreferrer"}
+- [CapEx vs OpEx on AWS](https://aws.amazon.com/economics/capex-vs-opex/){:target="_blank" rel="noopener noreferrer"}
 
 #### 3. Design principles of the AWS Well-Architected Framework
 
 **Why:** The Well-Architected Framework is AWS's philosophical foundation for building cloud infrastructure. Exam questions test your knowledge of the six pillars and their design principles, often asking you to identify which pillar applies to a specific scenario (e.g., using Auto Scaling relates to Performance Efficiency and Cost Optimization). Understanding these principles helps you answer architectural questions throughout all exam domains.
 
 **AWS Documentation:**
-- [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)
-- [Well-Architected Framework Whitepaper](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
-- [Operational Excellence Pillar](https://docs.aws.amazon.com/wellarchitected/latest/operational-excellence-pillar/welcome.html)
-- [Security Pillar](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/welcome.html)
-- [Reliability Pillar](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/welcome.html)
-- [Performance Efficiency Pillar](https://docs.aws.amazon.com/wellarchitected/latest/performance-efficiency-pillar/welcome.html)
-- [Cost Optimization Pillar](https://docs.aws.amazon.com/wellarchitected/latest/cost-optimization-pillar/welcome.html)
-- [Sustainability Pillar](https://docs.aws.amazon.com/wellarchitected/latest/sustainability-pillar/sustainability-pillar.html)
-- [Well-Architected Tool](https://aws.amazon.com/well-architected-tool/)
+- [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/){:target="_blank" rel="noopener noreferrer"}
+- [Well-Architected Framework Whitepaper](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html){:target="_blank" rel="noopener noreferrer"}
+- [Operational Excellence Pillar](https://docs.aws.amazon.com/wellarchitected/latest/operational-excellence-pillar/welcome.html){:target="_blank" rel="noopener noreferrer"}
+- [Security Pillar](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/welcome.html){:target="_blank" rel="noopener noreferrer"}
+- [Reliability Pillar](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/welcome.html){:target="_blank" rel="noopener noreferrer"}
+- [Performance Efficiency Pillar](https://docs.aws.amazon.com/wellarchitected/latest/performance-efficiency-pillar/welcome.html){:target="_blank" rel="noopener noreferrer"}
+- [Cost Optimization Pillar](https://docs.aws.amazon.com/wellarchitected/latest/cost-optimization-pillar/welcome.html){:target="_blank" rel="noopener noreferrer"}
+- [Sustainability Pillar](https://docs.aws.amazon.com/wellarchitected/latest/sustainability-pillar/sustainability-pillar.html){:target="_blank" rel="noopener noreferrer"}
+- [Well-Architected Tool](https://aws.amazon.com/well-architected-tool/){:target="_blank" rel="noopener noreferrer"}
 
 ---
 
@@ -91,25 +91,25 @@ Note: Some Skill Builder labs require a subscription.
 **Why:** Migration strategies appear frequently in exam scenarios asking you to recommend the best approach for moving applications to AWS (rehost, replatform, refactor, etc.). The Cloud Adoption Framework provides a structured approach to cloud adoption that you'll need to explain to stakeholders. Understanding migration benefits and strategies helps you answer questions about when and how to move to the cloud.
 
 **AWS Documentation:**
-- [AWS Cloud Adoption Framework](https://aws.amazon.com/cloud-adoption-framework/)
-- [AWS CAF Whitepaper](https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/welcome.html)
-- [Migration Strategies (7 Rs)](https://aws.amazon.com/blogs/enterprise-strategy/6-strategies-for-migrating-applications-to-the-cloud/)
-- [AWS Migration Hub](https://aws.amazon.com/migration-hub/)
-- [AWS Application Discovery Service](https://aws.amazon.com/application-discovery/)
-- [AWS Migration Evaluator](https://aws.amazon.com/migration-evaluator/)
-- [Prescriptive Guidance for Migration](https://aws.amazon.com/prescriptive-guidance/migration/)
+- [AWS Cloud Adoption Framework](https://aws.amazon.com/cloud-adoption-framework/){:target="_blank" rel="noopener noreferrer"}
+- [AWS CAF Whitepaper](https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/welcome.html){:target="_blank" rel="noopener noreferrer"}
+- [Migration Strategies (7 Rs)](https://aws.amazon.com/blogs/enterprise-strategy/6-strategies-for-migrating-applications-to-the-cloud/){:target="_blank" rel="noopener noreferrer"}
+- [AWS Migration Hub](https://aws.amazon.com/migration-hub/){:target="_blank" rel="noopener noreferrer"}
+- [AWS Application Discovery Service](https://aws.amazon.com/application-discovery/){:target="_blank" rel="noopener noreferrer"}
+- [AWS Migration Evaluator](https://aws.amazon.com/migration-evaluator/){:target="_blank" rel="noopener noreferrer"}
+- [Prescriptive Guidance for Migration](https://aws.amazon.com/prescriptive-guidance/migration/){:target="_blank" rel="noopener noreferrer"}
 
 #### 2. Understand concepts of cloud architecture design (for example, elasticity, scalability, high availability, loose coupling)
 
 **Why:** Cloud architecture concepts are tested extensively throughout the exam. You must understand not just definitions, but how to apply them (e.g., using Auto Scaling Groups for elasticity, Multi-AZ deployments for high availability). Exam questions present scenarios and ask you to identify which architectural concept solves a specific problem. Understanding loose coupling helps you recognize well-architected solutions.
 
 **AWS Documentation:**
-- [Architecting for the Cloud: AWS Best Practices](https://docs.aws.amazon.com/whitepapers/latest/architecting-for-the-cloud-aws-best-practices/introduction.html)
-- [AWS Architecture Center](https://aws.amazon.com/architecture/)
-- [Reliability Pillar - High Availability](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/availability.html)
-- [Performance Efficiency Pillar - Scalability](https://docs.aws.amazon.com/wellarchitected/latest/performance-efficiency-pillar/selection.html)
-- [Loose Coupling Overview](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/use-loosely-coupled-dependencies.html)
-- [Elasticity and Scalability](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html)
+- [Architecting for the Cloud: AWS Best Practices](https://docs.aws.amazon.com/whitepapers/latest/architecting-for-the-cloud-aws-best-practices/introduction.html){:target="_blank" rel="noopener noreferrer"}
+- [AWS Architecture Center](https://aws.amazon.com/architecture/){:target="_blank" rel="noopener noreferrer"}
+- [Reliability Pillar - High Availability](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/availability.html){:target="_blank" rel="noopener noreferrer"}
+- [Performance Efficiency Pillar - Scalability](https://docs.aws.amazon.com/wellarchitected/latest/performance-efficiency-pillar/selection.html){:target="_blank" rel="noopener noreferrer"}
+- [Loose Coupling Overview](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/use-loosely-coupled-dependencies.html){:target="_blank" rel="noopener noreferrer"}
+- [Elasticity and Scalability](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html){:target="_blank" rel="noopener noreferrer"}
 
 ---
 
@@ -122,34 +122,34 @@ Note: Some Skill Builder labs require a subscription.
 **Why:** The 6 R's (now 7 R's with relocate) of migration are frequently tested. Exam questions present business scenarios with specific constraints (timeline, budget, technical debt) and ask you to identify the most appropriate migration strategy. Understanding when to rehost vs refactor helps you answer questions about migration planning and cloud adoption strategies.
 
 **AWS Documentation:**
-- [7 Rs of Migration](https://docs.aws.amazon.com/prescriptive-guidance/latest/large-migration-guide/migration-strategies.html)
-- [Rehosting (Lift and Shift)](https://aws.amazon.com/cloud-migration/how-to-migrate-rehosting/)
-- [Replatforming](https://aws.amazon.com/blogs/enterprise-strategy/what-is-replatforming/)
-- [Refactoring](https://aws.amazon.com/blogs/enterprise-strategy/refactoring-how-when-why/)
-- [Migration Best Practices](https://aws.amazon.com/cloud-migration/best-practices/)
-- [AWS Prescriptive Guidance](https://aws.amazon.com/prescriptive-guidance/)
+- [7 Rs of Migration](https://docs.aws.amazon.com/prescriptive-guidance/latest/large-migration-guide/migration-strategies.html){:target="_blank" rel="noopener noreferrer"}
+- [Rehosting (Lift and Shift)](https://aws.amazon.com/cloud-migration/how-to-migrate-rehosting/){:target="_blank" rel="noopener noreferrer"}
+- [Replatforming](https://aws.amazon.com/blogs/enterprise-strategy/what-is-replatforming/){:target="_blank" rel="noopener noreferrer"}
+- [Refactoring](https://aws.amazon.com/blogs/enterprise-strategy/refactoring-how-when-why/){:target="_blank" rel="noopener noreferrer"}
+- [Migration Best Practices](https://aws.amazon.com/cloud-migration/best-practices/){:target="_blank" rel="noopener noreferrer"}
+- [AWS Prescriptive Guidance](https://aws.amazon.com/prescriptive-guidance/){:target="_blank" rel="noopener noreferrer"}
 
 #### 2. Hybrid cloud deployment models
 
 **Why:** Many organizations use hybrid cloud architectures, and exam questions test your understanding of when and why to use hybrid deployments. You must know the benefits of hybrid cloud (keeping sensitive data on-premises while using cloud for scalability) and the AWS services that enable hybrid architectures (AWS Direct Connect, AWS Storage Gateway, AWS Outposts).
 
 **AWS Documentation:**
-- [Hybrid Cloud with AWS](https://aws.amazon.com/hybrid/)
-- [AWS Outposts](https://aws.amazon.com/outposts/)
-- [AWS Direct Connect](https://aws.amazon.com/directconnect/)
-- [AWS Storage Gateway](https://aws.amazon.com/storagegateway/)
-- [Hybrid Cloud Architecture](https://aws.amazon.com/architecture/hybrid/)
-- [VMware Cloud on AWS](https://aws.amazon.com/vmware/)
+- [Hybrid Cloud with AWS](https://aws.amazon.com/hybrid/){:target="_blank" rel="noopener noreferrer"}
+- [AWS Outposts](https://aws.amazon.com/outposts/){:target="_blank" rel="noopener noreferrer"}
+- [AWS Direct Connect](https://aws.amazon.com/directconnect/){:target="_blank" rel="noopener noreferrer"}
+- [AWS Storage Gateway](https://aws.amazon.com/storagegateway/){:target="_blank" rel="noopener noreferrer"}
+- [Hybrid Cloud Architecture](https://aws.amazon.com/architecture/hybrid/){:target="_blank" rel="noopener noreferrer"}
+- [VMware Cloud on AWS](https://aws.amazon.com/vmware/){:target="_blank" rel="noopener noreferrer"}
 
 #### 3. On-premises, cloud, and hybrid deployment models
 
 **Why:** Understanding deployment model differences helps you answer questions about which model fits specific business needs (regulatory requirements, existing infrastructure, migration strategy). Exam questions often describe a company's situation and ask you to recommend the appropriate deployment model.
 
 **AWS Documentation:**
-- [Cloud Deployment Models](https://aws.amazon.com/types-of-cloud-computing/)
-- [Public Cloud vs Private Cloud vs Hybrid Cloud](https://aws.amazon.com/what-is/cloud-computing/)
-- [On-Premises to Cloud Migration](https://aws.amazon.com/cloud-migration/)
-- [Hybrid Cloud Solutions](https://aws.amazon.com/hybrid/)
+- [Cloud Deployment Models](https://aws.amazon.com/types-of-cloud-computing/){:target="_blank" rel="noopener noreferrer"}
+- [Public Cloud vs Private Cloud vs Hybrid Cloud](https://aws.amazon.com/what-is/cloud-computing/){:target="_blank" rel="noopener noreferrer"}
+- [On-Premises to Cloud Migration](https://aws.amazon.com/cloud-migration/){:target="_blank" rel="noopener noreferrer"}
+- [Hybrid Cloud Solutions](https://aws.amazon.com/hybrid/){:target="_blank" rel="noopener noreferrer"}
 
 ---
 
@@ -162,60 +162,60 @@ Note: Some Skill Builder labs require a subscription.
 **Why:** AWS global infrastructure is one of the most heavily tested areas in Domain 1. You must understand not just what Regions, AZs, and Edge Locations are, but when to use each. Exam questions test your knowledge of high availability (deploy across multiple AZs), disaster recovery (backup to different Region), and performance (use CloudFront Edge Locations). This knowledge applies across all exam domains.
 
 **AWS Documentation:**
-- [AWS Global Infrastructure](https://aws.amazon.com/about-aws/global-infrastructure/)
-- [Regions and Availability Zones](https://aws.amazon.com/about-aws/global-infrastructure/regions_az/)
-- [AWS Local Zones](https://aws.amazon.com/about-aws/global-infrastructure/localzones/)
-- [AWS Wavelength Zones](https://aws.amazon.com/wavelength/)
-- [AWS Outposts](https://aws.amazon.com/outposts/)
-- [Edge Locations and CloudFront](https://aws.amazon.com/cloudfront/features/)
-- [AWS Global Accelerator](https://aws.amazon.com/global-accelerator/)
-- [Choosing Regions](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html)
+- [AWS Global Infrastructure](https://aws.amazon.com/about-aws/global-infrastructure/){:target="_blank" rel="noopener noreferrer"}
+- [Regions and Availability Zones](https://aws.amazon.com/about-aws/global-infrastructure/regions_az/){:target="_blank" rel="noopener noreferrer"}
+- [AWS Local Zones](https://aws.amazon.com/about-aws/global-infrastructure/localzones/){:target="_blank" rel="noopener noreferrer"}
+- [AWS Wavelength Zones](https://aws.amazon.com/wavelength/){:target="_blank" rel="noopener noreferrer"}
+- [AWS Outposts](https://aws.amazon.com/outposts/){:target="_blank" rel="noopener noreferrer"}
+- [Edge Locations and CloudFront](https://aws.amazon.com/cloudfront/features/){:target="_blank" rel="noopener noreferrer"}
+- [AWS Global Accelerator](https://aws.amazon.com/global-accelerator/){:target="_blank" rel="noopener noreferrer"}
+- [Choosing Regions](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html){:target="_blank" rel="noopener noreferrer"}
 
 #### 2. High availability and disaster recovery concepts
 
 **Why:** High availability and disaster recovery are critical cloud concepts tested throughout the exam. You must understand the difference (HA prevents downtime, DR recovers from disasters) and how AWS services implement these concepts. Exam questions present scenarios with RTO/RPO requirements and ask you to identify appropriate solutions.
 
 **AWS Documentation:**
-- [Disaster Recovery on AWS](https://aws.amazon.com/disaster-recovery/)
-- [Backup and Restore](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/backup-and-restore.html)
-- [Pilot Light](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/pilot-light.html)
-- [Warm Standby](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/warm-standby.html)
-- [Multi-Site Active/Active](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/multi-site-active-active.html)
-- [High Availability](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/availability.html)
-- [Fault Tolerance](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/fault-isolation.html)
+- [Disaster Recovery on AWS](https://aws.amazon.com/disaster-recovery/){:target="_blank" rel="noopener noreferrer"}
+- [Backup and Restore](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/backup-and-restore.html){:target="_blank" rel="noopener noreferrer"}
+- [Pilot Light](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/pilot-light.html){:target="_blank" rel="noopener noreferrer"}
+- [Warm Standby](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/warm-standby.html){:target="_blank" rel="noopener noreferrer"}
+- [Multi-Site Active/Active](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/multi-site-active-active.html){:target="_blank" rel="noopener noreferrer"}
+- [High Availability](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/availability.html){:target="_blank" rel="noopener noreferrer"}
+- [Fault Tolerance](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/fault-isolation.html){:target="_blank" rel="noopener noreferrer"}
 
 #### 3. AWS Global Infrastructure features (for example, AWS CloudFront, AWS Global Accelerator)
 
 **Why:** Understanding AWS global infrastructure services helps you answer questions about reducing latency, improving performance, and ensuring global availability. CloudFront and Global Accelerator frequently appear in exam scenarios about content delivery and application acceleration.
 
 **AWS Documentation:**
-- [Amazon CloudFront](https://aws.amazon.com/cloudfront/)
-- [CloudFront Developer Guide](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html)
-- [AWS Global Accelerator](https://aws.amazon.com/global-accelerator/)
-- [Global Accelerator Developer Guide](https://docs.aws.amazon.com/global-accelerator/latest/dg/what-is-global-accelerator.html)
-- [Edge Locations](https://aws.amazon.com/cloudfront/features/)
-- [AWS Global Infrastructure Overview](https://aws.amazon.com/about-aws/global-infrastructure/)
+- [Amazon CloudFront](https://aws.amazon.com/cloudfront/){:target="_blank" rel="noopener noreferrer"}
+- [CloudFront Developer Guide](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html){:target="_blank" rel="noopener noreferrer"}
+- [AWS Global Accelerator](https://aws.amazon.com/global-accelerator/){:target="_blank" rel="noopener noreferrer"}
+- [Global Accelerator Developer Guide](https://docs.aws.amazon.com/global-accelerator/latest/dg/what-is-global-accelerator.html){:target="_blank" rel="noopener noreferrer"}
+- [Edge Locations](https://aws.amazon.com/cloudfront/features/){:target="_blank" rel="noopener noreferrer"}
+- [AWS Global Infrastructure Overview](https://aws.amazon.com/about-aws/global-infrastructure/){:target="_blank" rel="noopener noreferrer"}
 
 ---
 
 ## AWS Service FAQs (Recommended Reading)
 
-- [AWS Cloud FAQs](https://aws.amazon.com/faqs/)
-- [CloudFront FAQs](https://aws.amazon.com/cloudfront/faqs/)
-- [Global Accelerator FAQs](https://aws.amazon.com/global-accelerator/faqs/)
-- [Regions and AZs FAQs](https://aws.amazon.com/about-aws/global-infrastructure/regions_az/)
+- [AWS Cloud FAQs](https://aws.amazon.com/faqs/){:target="_blank" rel="noopener noreferrer"}
+- [CloudFront FAQs](https://aws.amazon.com/cloudfront/faqs/){:target="_blank" rel="noopener noreferrer"}
+- [Global Accelerator FAQs](https://aws.amazon.com/global-accelerator/faqs/){:target="_blank" rel="noopener noreferrer"}
+- [Regions and AZs FAQs](https://aws.amazon.com/about-aws/global-infrastructure/regions_az/){:target="_blank" rel="noopener noreferrer"}
 
 ---
 
 ## AWS Whitepapers (Essential Reading)
 
-1. **[AWS Overview](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html)** - Comprehensive introduction to AWS services and infrastructure
-2. **[AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)** - Six pillars of well-architected systems
-3. **[How AWS Pricing Works](https://docs.aws.amazon.com/whitepapers/latest/how-aws-pricing-works/welcome.html)** - Understanding AWS pricing models
-4. **[Overview of Amazon Web Services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/aws-overview.pdf)** - High-level overview of AWS
-5. **[Architecting for the Cloud: AWS Best Practices](https://docs.aws.amazon.com/whitepapers/latest/architecting-for-the-cloud-aws-best-practices/introduction.html)** - Cloud architecture design principles
-6. **[AWS Cloud Adoption Framework](https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/welcome.html)** - Structured approach to cloud adoption
-7. **[AWS Migration Whitepaper](https://docs.aws.amazon.com/prescriptive-guidance/latest/migration-whitepaper/welcome.html)** - Migration strategies and best practices
+1. **[AWS Overview](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html){:target="_blank" rel="noopener noreferrer"}** - Comprehensive introduction to AWS services and infrastructure
+2. **[AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html){:target="_blank" rel="noopener noreferrer"}** - Six pillars of well-architected systems
+3. **[How AWS Pricing Works](https://docs.aws.amazon.com/whitepapers/latest/how-aws-pricing-works/welcome.html){:target="_blank" rel="noopener noreferrer"}** - Understanding AWS pricing models
+4. **[Overview of Amazon Web Services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/aws-overview.pdf){:target="_blank" rel="noopener noreferrer"}** - High-level overview of AWS
+5. **[Architecting for the Cloud: AWS Best Practices](https://docs.aws.amazon.com/whitepapers/latest/architecting-for-the-cloud-aws-best-practices/introduction.html){:target="_blank" rel="noopener noreferrer"}** - Cloud architecture design principles
+6. **[AWS Cloud Adoption Framework](https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/welcome.html){:target="_blank" rel="noopener noreferrer"}** - Structured approach to cloud adoption
+7. **[AWS Migration Whitepaper](https://docs.aws.amazon.com/prescriptive-guidance/latest/migration-whitepaper/welcome.html){:target="_blank" rel="noopener noreferrer"}** - Migration strategies and best practices
 
 ---
 
