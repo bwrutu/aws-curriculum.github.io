@@ -1,0 +1,97 @@
+/* ============================================================
+   Site Navigation - matches Slate theme color scheme
+   ============================================================ */
+
+#nav_wrap {
+  background: #2a2a2a;
+  border-bottom: 1px solid #111;
+  border-top: 1px solid #444;
+  position: relative;
+  z-index: 100;
+}
+
+.site-nav {
+  padding: 0;
+}
+
+/* Top-level menu */
+.nav-menu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+/* All nav items */
+.nav-item {
+  position: relative;
+}
+
+/* All nav links */
+.nav-item > a {
+  display: block;
+  padding: 13px 22px;
+  color: #e8e8e8;
+  text-decoration: none;
+  font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  white-space: nowrap;
+  transition: background 0.2s, color 0.2s;
+}
+
+.nav-item > a:hover {
+  background: #0F79D0;
+  color: #fff;
+}
+
+/* Dropdown panels (level 2 and 3) */
+.nav-item .dropdown {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: #333;
+  border: 1px solid #111;
+  border-top: 2px solid #0F79D0;
+  min-width: 230px;
+  z-index: 200;
+  list-style: none;
+  margin: 0;
+  padding: 4px 0;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.5);
+}
+
+/* Show dropdown on hover */
+.nav-item:hover > .dropdown {
+  display: block;
+}
+
+/* Level 3 fly-out: open to the right */
+.dropdown .fly-out {
+  top: -5px;
+  left: 100%;
+  border-top: 2px solid #0F79D0;
+}
+
+/* Links inside dropdowns */
+.nav-item .dropdown a {
+  display: block;
+  padding: 9px 18px;
+  color: #ddd;
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: normal;
+  white-space: nowrap;
+  transition: background 0.2s, color 0.2s;
+}
+
+.nav-item .dropdown a:hover {
+  background: #0F79D0;
+  color: #fff;
+}
+
+/* Right-arrow indicator on sub-menu parents keeps alignment */
+.nav-item.has-dropdown .dropdown .nav-item.has-dropdown > a {
+  padding-right: 30px;
+}

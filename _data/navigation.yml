@@ -1,0 +1,20 @@
+- title: AWS
+  items:
+    - title: Foundational
+      items:
+        - title: Cloud Practitioner (CLF-C02)
+          url: /docs/aws/clf-c02/
+    - title: Associate
+      items:
+        - title: Developer Associate (DVA-C02)
+          url: /docs/aws/dva-c02/
+        - title: Solutions Architect Associate (SAA-C03)
+          url: /docs/aws/saa-c03/
+        - title: SysOps Administrator (SOA-C02)
+          url: /docs/aws/soa-c02/
+    - title: Professional
+      items:
+        - title: Solutions Architect Professional (SAP-C02)
+          url: /docs/aws/sap-c02/
+        - title: DevOps Engineer Professional (DOP-C02)
+          url: /docs/aws/dop-c02/
