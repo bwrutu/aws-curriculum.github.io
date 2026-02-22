@@ -3,7 +3,15 @@
     - title: Foundational
       items:
         - title: Cloud Practitioner (CLF-C02)
-          url: /docs/aws/clf-c02/
+          items:
+            - title: AWS Certified Cloud Practitioner (CLF-C02) Domain 1
+              url: /docs/aws/clf-c02/AWS-Cloud-Practitioner-CLF-C02-Domain1
+            - title: AWS Certified Cloud Practitioner (CLF-C02) Domain 2
+              url: /docs/aws/clf-c02/AWS-Cloud-Practitioner-CLF-C02-Domain2
+            - title: AWS Certified Cloud Practitioner (CLF-C02) Domain 3
+              url: /docs/aws/clf-c02/AWS-Cloud-Practitioner-CLF-C02-Domain3
+            - title: AWS Certified Cloud Practitioner (CLF-C02) Domain 4
+              url: /docs/aws/clf-c02/AWS-Cloud-Practitioner-CLF-C02-Domain4
     - title: Associate
       items:
         - title: Developer Associate (DVA-C02)

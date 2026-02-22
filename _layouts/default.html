@@ -47,8 +47,17 @@
                 {% if subitem.items %}
                 <ul class="dropdown fly-out">
                   {% for leaf in subitem.items %}
-                  <li class="nav-item">
-                    <a href="{{ leaf.url | default: '#' }}">{{ leaf.title }}</a>
+                  <li class="nav-item{% if leaf.items %} has-dropdown{% endif %}">
+                    <a href="{{ leaf.url | default: '#' }}">{{ leaf.title }}{% if leaf.items %} &#9658;{% endif %}</a>
+                    {% if leaf.items %}
+                    <ul class="dropdown fly-out">
+                      {% for subleaf in leaf.items %}
+                      <li class="nav-item">
+                        <a href="{{ subleaf.url | default: '#' }}">{{ subleaf.title }}</a>
+                      </li>
+                      {% endfor %}
+                    </ul>
+                    {% endif %}
                   </li>
                   {% endfor %}
                 </ul>
