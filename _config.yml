@@ -1,0 +1,15 @@
+title: CloudPath Academy
+description: Your guide to AWS, Azure, and GCP certification success
+url: "https://cloudpathacademy.ka6wke.net"
+
+theme: jekyll-theme-slate
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
