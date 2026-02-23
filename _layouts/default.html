@@ -95,6 +95,32 @@
     <button id="scroll-to-top" aria-label="Scroll to top">&#8679;</button>
     <script>
       (function () {
+        function adjustDropdown(dropdown) {
+          dropdown.style.left = '';
+          dropdown.style.right = '';
+          var rect = dropdown.getBoundingClientRect();
+          if (rect.right > window.innerWidth) {
+            if (dropdown.classList.contains('fly-out')) {
+              dropdown.style.left = 'auto';
+              dropdown.style.right = '100%';
+            } else {
+              dropdown.style.left = 'auto';
+              dropdown.style.right = '0';
+            }
+          }
+        }
+
+        document.querySelectorAll('.nav-item').forEach(function (item) {
+          item.addEventListener('mouseenter', function () {
+            var dropdown = this.querySelector(':scope > .dropdown');
+            if (dropdown) adjustDropdown(dropdown);
+          });
+        });
+      })();
+    </script>
+
+    <script>
+      (function () {
         var btn = document.getElementById('scroll-to-top');
         var header = document.getElementById('header_wrap');
         window.addEventListener('scroll', function () {

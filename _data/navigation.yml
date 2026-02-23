@@ -39,7 +39,15 @@
             - title: AWS Certified Developer Associate (DVA-C02) Domain 4
               url: /docs/aws/dva-c02/AWS-Developer-Associate-DVA-C02-Domain4
         - title: Solutions Architect Associate (SAA-C03)
-          url: /docs/aws/saa-c03/
+          items:
+            - title: AWS Certified Solutions Architect Associate (SAA-C03) Domain 1
+              url: /docs/aws/saa-c03/AWS-Solutions-Architect-Associate-SAA-C03-Domain1
+            - title: AWS Certified Solutions Architect Associate (SAA-C03) Domain 2
+              url: /docs/aws/saa-c03/AWS-Solutions-Architect-Associate-SAA-C03-Domain2
+            - title: AWS Certified Solutions Architect Associate (SAA-C03) Domain 3
+              url: /docs/aws/saa-c03/AWS-Solutions-Architect-Associate-SAA-C03-Domain3
+            - title: AWS Certified Solutions Architect Associate (SAA-C03) Domain 4
+              url: /docs/aws/saa-c03/AWS-Solutions-Architect-Associate-SAA-C03-Domain4
         - title: CloudOps Engineer Associate (SOA-C03)
           url: /docs/aws/soa-c03/
     - title: Professional
