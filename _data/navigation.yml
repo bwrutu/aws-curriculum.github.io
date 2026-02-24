@@ -48,11 +48,39 @@
               url: /docs/aws/saa-c03/AWS-Solutions-Architect-Associate-SAA-C03-Domain3
             - title: AWS Certified Solutions Architect Associate (SAA-C03) Domain 4
               url: /docs/aws/saa-c03/AWS-Solutions-Architect-Associate-SAA-C03-Domain4
+        - title: Machine Learning Engineer Associate (MLA-C01)
+          items:
+            - title: AWS Certified Machine Learning Engineer Associate (MLA-C01) Domain 1
+              url: /docs/aws/mla-c01/AWS-ML-Engineer-Associate-MLA-C01-Domain1-Reading-List
+            - title: AWS Certified Machine Learning Engineer Associate (MLA-C01) Domain 2
+              url: /docs/aws/mla-c01/AWS-ML-Engineer-Associate-MLA-C01-Domain2-Reading-List
+            - title: AWS Certified Machine Learning Engineer Associate (MLA-C01) Domain 3
+              url: /docs/aws/mla-c01/AWS-ML-Engineer-Associate-MLA-C01-Domain3-Reading-List
+            - title: AWS Certified Machine Learning Engineer Associate (MLA-C01) Domain 4
+              url: /docs/aws/mla-c01/AWS-ML-Engineer-Associate-MLA-C01-Domain4-Reading-List
         - title: CloudOps Engineer Associate (SOA-C03)
-          url: /docs/aws/soa-c03/
+          items:
+            - title: AWS Certified CloudOps Engineer Associate (SOA-C03) Domain 1
+              url: /docs/aws/soa-c03/AWS-SysOps-Administrator-SOA-C03-Domain1-Reading-List
+            - title: AWS Certified CloudOps Engineer Associate (SOA-C03) Domain 2
+              url: /docs/aws/soa-c03/AWS-SysOps-Administrator-SOA-C03-Domain2-Reading-List
+            - title: AWS Certified CloudOps Engineer Associate (SOA-C03) Domain 3
+              url: /docs/aws/soa-c03/AWS-SysOps-Administrator-SOA-C03-Domain3-Reading-List
+            - title: AWS Certified CloudOps Engineer Associate (SOA-C03) Domain 4
+              url: /docs/aws/soa-c03/AWS-SysOps-Administrator-SOA-C03-Domain4-Reading-List
+            - title: AWS Certified CloudOps Engineer Associate (SOA-C03) Domain 5
+              url: /docs/aws/soa-c03/AWS-SysOps-Administrator-SOA-C03-Domain5-Reading-List
     - title: Professional
       items:
         - title: Solutions Architect Professional (SAP-C02)
           url: /docs/aws/sap-c02/
         - title: DevOps Engineer Professional (DOP-C02)
           url: /docs/aws/dop-c02/
+    - title: Specialty
+      items:
+        - title: Machine Learning - Specialty (MLS-C01)
+          url: /docs/aws/mls-c01/
+        - title: Security - Specialty (SCS-C03)
+          url: /docs/aws/scs-c03/
+        - title: Advanced Networking - Specialty (ANS-C01)
+          url: /docs/aws/ans-c01/

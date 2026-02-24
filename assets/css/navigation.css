@@ -141,6 +141,25 @@
 }
 
 /* ============================================================
+   Footer - 3 equal columns, left-justified text
+   ============================================================ */
+
+.footer-columns {
+  display: flex;
+  gap: 24px;
+}
+
+.footer-col {
+  flex: 1;
+  text-align: left;
+}
+
+.footer-col p,
+.footer-col a {
+  text-align: left;
+}
+
+/* ============================================================
    Scroll-to-top button
    ============================================================ */
 
