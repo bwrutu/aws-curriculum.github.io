@@ -1,146 +1,144 @@
 - title: Home
   url: /
-- title: AWS
+- title: Foundational
   items:
-    - title: Foundational
+    - title: AI Practitioner (AIF-C01)
       items:
-        - title: Cloud Practitioner (CLF-C02)
-          items:
-            - title: AWS Certified Cloud Practitioner (CLF-C02) Domain 1
-              url: /docs/aws/clf-c02/AWS-Cloud-Practitioner-CLF-C02-Domain1
-            - title: AWS Certified Cloud Practitioner (CLF-C02) Domain 2
-              url: /docs/aws/clf-c02/AWS-Cloud-Practitioner-CLF-C02-Domain2
-            - title: AWS Certified Cloud Practitioner (CLF-C02) Domain 3
-              url: /docs/aws/clf-c02/AWS-Cloud-Practitioner-CLF-C02-Domain3
-            - title: AWS Certified Cloud Practitioner (CLF-C02) Domain 4
-              url: /docs/aws/clf-c02/AWS-Cloud-Practitioner-CLF-C02-Domain4
-        - title: AI Practitioner (AIF-C01)
-          items:
-            - title: AWS Certified AI Practitioner (AIF-C01) Domain 1
-              url: /docs/aws/aif-c01/AWS-AI-Practitioner-AIF-C01-Domain1
-            - title: AWS Certified AI Practitioner (AIF-C01) Domain 2
-              url: /docs/aws/aif-c01/AWS-AI-Practitioner-AIF-C01-Domain2
-            - title: AWS Certified AI Practitioner (AIF-C01) Domain 3
-              url: /docs/aws/aif-c01/AWS-AI-Practitioner-AIF-C01-Domain3
-            - title: AWS Certified AI Practitioner (AIF-C01) Domain 4
-              url: /docs/aws/aif-c01/AWS-AI-Practitioner-AIF-C01-Domain4
-            - title: AWS Certified AI Practitioner (AIF-C01) Domain 5
-              url: /docs/aws/aif-c01/AWS-AI-Practitioner-AIF-C01-Domain5
-    - title: Associate
+        - title: AWS Certified AI Practitioner (AIF-C01) Domain 1
+          url: /docs/aws/aif-c01/AWS-AI-Practitioner-AIF-C01-Domain1
+        - title: AWS Certified AI Practitioner (AIF-C01) Domain 2
+          url: /docs/aws/aif-c01/AWS-AI-Practitioner-AIF-C01-Domain2
+        - title: AWS Certified AI Practitioner (AIF-C01) Domain 3
+          url: /docs/aws/aif-c01/AWS-AI-Practitioner-AIF-C01-Domain3
+        - title: AWS Certified AI Practitioner (AIF-C01) Domain 4
+          url: /docs/aws/aif-c01/AWS-AI-Practitioner-AIF-C01-Domain4
+        - title: AWS Certified AI Practitioner (AIF-C01) Domain 5
+          url: /docs/aws/aif-c01/AWS-AI-Practitioner-AIF-C01-Domain5
+    - title: Cloud Practitioner (CLF-C02)
       items:
-        - title: Developer Associate (DVA-C02)
-          items:
-            - title: AWS Certified Developer Associate (DVA-C02) Domain 1
-              url: /docs/aws/dva-c02/AWS-Developer-Associate-DVA-C02-Domain1
-            - title: AWS Certified Developer Associate (DVA-C02) Domain 2
-              url: /docs/aws/dva-c02/AWS-Developer-Associate-DVA-C02-Domain2
-            - title: AWS Certified Developer Associate (DVA-C02) Domain 3
-              url: /docs/aws/dva-c02/AWS-Developer-Associate-DVA-C02-Domain3
-            - title: AWS Certified Developer Associate (DVA-C02) Domain 4
-              url: /docs/aws/dva-c02/AWS-Developer-Associate-DVA-C02-Domain4
-        - title: Solutions Architect Associate (SAA-C03)
-          items:
-            - title: AWS Certified Solutions Architect Associate (SAA-C03) Domain 1
-              url: /docs/aws/saa-c03/AWS-Solutions-Architect-Associate-SAA-C03-Domain1
-            - title: AWS Certified Solutions Architect Associate (SAA-C03) Domain 2
-              url: /docs/aws/saa-c03/AWS-Solutions-Architect-Associate-SAA-C03-Domain2
-            - title: AWS Certified Solutions Architect Associate (SAA-C03) Domain 3
-              url: /docs/aws/saa-c03/AWS-Solutions-Architect-Associate-SAA-C03-Domain3
-            - title: AWS Certified Solutions Architect Associate (SAA-C03) Domain 4
-              url: /docs/aws/saa-c03/AWS-Solutions-Architect-Associate-SAA-C03-Domain4
-        - title: Machine Learning Engineer Associate (MLA-C01)
-          items:
-            - title: AWS Certified Machine Learning Engineer Associate (MLA-C01) Domain 1
-              url: /docs/aws/mla-c01/AWS-ML-Engineer-Associate-MLA-C01-Domain1-Reading-List
-            - title: AWS Certified Machine Learning Engineer Associate (MLA-C01) Domain 2
-              url: /docs/aws/mla-c01/AWS-ML-Engineer-Associate-MLA-C01-Domain2-Reading-List
-            - title: AWS Certified Machine Learning Engineer Associate (MLA-C01) Domain 3
-              url: /docs/aws/mla-c01/AWS-ML-Engineer-Associate-MLA-C01-Domain3-Reading-List
-            - title: AWS Certified Machine Learning Engineer Associate (MLA-C01) Domain 4
-              url: /docs/aws/mla-c01/AWS-ML-Engineer-Associate-MLA-C01-Domain4-Reading-List
-        - title: CloudOps Engineer Associate (SOA-C03)
-          items:
-            - title: AWS Certified CloudOps Engineer Associate (SOA-C03) Domain 1
-              url: /docs/aws/soa-c03/AWS-SysOps-Administrator-SOA-C03-Domain1-Reading-List
-            - title: AWS Certified CloudOps Engineer Associate (SOA-C03) Domain 2
-              url: /docs/aws/soa-c03/AWS-SysOps-Administrator-SOA-C03-Domain2-Reading-List
-            - title: AWS Certified CloudOps Engineer Associate (SOA-C03) Domain 3
-              url: /docs/aws/soa-c03/AWS-SysOps-Administrator-SOA-C03-Domain3-Reading-List
-            - title: AWS Certified CloudOps Engineer Associate (SOA-C03) Domain 4
-              url: /docs/aws/soa-c03/AWS-SysOps-Administrator-SOA-C03-Domain4-Reading-List
-            - title: AWS Certified CloudOps Engineer Associate (SOA-C03) Domain 5
-              url: /docs/aws/soa-c03/AWS-SysOps-Administrator-SOA-C03-Domain5-Reading-List
-    - title: Professional
+        - title: AWS Certified Cloud Practitioner (CLF-C02) Domain 1
+          url: /docs/aws/clf-c02/AWS-Cloud-Practitioner-CLF-C02-Domain1
+        - title: AWS Certified Cloud Practitioner (CLF-C02) Domain 2
+          url: /docs/aws/clf-c02/AWS-Cloud-Practitioner-CLF-C02-Domain2
+        - title: AWS Certified Cloud Practitioner (CLF-C02) Domain 3
+          url: /docs/aws/clf-c02/AWS-Cloud-Practitioner-CLF-C02-Domain3
+        - title: AWS Certified Cloud Practitioner (CLF-C02) Domain 4
+          url: /docs/aws/clf-c02/AWS-Cloud-Practitioner-CLF-C02-Domain4
+- title: Associate
+  items:
+    - title: CloudOps Engineer Associate (SOA-C03)
       items:
-        - title: AI - Professional (AIP-C01)
-          items:
-            - title: AWS Certified AI - Professional (AIP-C01) Domain 1
-              url: /docs/aws/aip-c01/Domain-1-Foundation-Model-Integration-Data-Management-Compliance
-            - title: AWS Certified AI - Professional (AIP-C01) Domain 2
-              url: /docs/aws/aip-c01/Domain-2-Implementation-Integration
-            - title: AWS Certified AI - Professional (AIP-C01) Domain 3
-              url: /docs/aws/aip-c01/Domain-3-AI-Safety-Security-Governance
-            - title: AWS Certified AI - Professional (AIP-C01) Domain 4
-              url: /docs/aws/aip-c01/Domain-4-Operational-Efficiency-Optimization
-            - title: AWS Certified AI - Professional (AIP-C01) Domain 5
-              url: /docs/aws/aip-c01/Domain-5-Testing-Validation-Troubleshooting
-        - title: Solutions Architect Professional (SAP-C02)
-          items:
-            - title: AWS Certified Solutions Architect Professional (SAP-C02) Domain 1
-              url: /docs/aws/sap-c02/Domain-1-Design-Solutions-Organizational-Complexity
-            - title: AWS Certified Solutions Architect Professional (SAP-C02) Domain 2
-              url: /docs/aws/sap-c02/Domain-2-Design-New-Solutions
-            - title: AWS Certified Solutions Architect Professional (SAP-C02) Domain 3
-              url: /docs/aws/sap-c02/Domain-3-Continuous-Improvement-Existing-Solutions
-            - title: AWS Certified Solutions Architect Professional (SAP-C02) Domain 4
-              url: /docs/aws/sap-c02/Domain-4-Accelerate-Workload-Migration-Modernization
-        - title: DevOps Engineer Professional (DOP-C02)
-          items:
-            - title: AWS Certified DevOps Engineer Professional (DOP-C02) Domain 1
-              url: /docs/aws/dop-c02/Domain-1-SDLC-Automation
-            - title: AWS Certified DevOps Engineer Professional (DOP-C02) Domain 2
-              url: /docs/aws/dop-c02/Domain-2-Configuration-Management-IaC
-            - title: AWS Certified DevOps Engineer Professional (DOP-C02) Domain 3
-              url: /docs/aws/dop-c02/Domain-3-Resilient-Cloud-Solutions
-            - title: AWS Certified DevOps Engineer Professional (DOP-C02) Domain 4
-              url: /docs/aws/dop-c02/Domain-4-Monitoring-Logging
-            - title: AWS Certified DevOps Engineer Professional (DOP-C02) Domain 5
-              url: /docs/aws/dop-c02/Domain-5-Incident-Event-Response
-            - title: AWS Certified DevOps Engineer Professional (DOP-C02) Domain 6
-              url: /docs/aws/dop-c02/Domain-6-Security-Compliance
-    - title: Specialty
+        - title: AWS Certified CloudOps Engineer Associate (SOA-C03) Domain 1
+          url: /docs/aws/soa-c03/AWS-SysOps-Administrator-SOA-C03-Domain1-Reading-List
+        - title: AWS Certified CloudOps Engineer Associate (SOA-C03) Domain 2
+          url: /docs/aws/soa-c03/AWS-SysOps-Administrator-SOA-C03-Domain2-Reading-List
+        - title: AWS Certified CloudOps Engineer Associate (SOA-C03) Domain 3
+          url: /docs/aws/soa-c03/AWS-SysOps-Administrator-SOA-C03-Domain3-Reading-List
+        - title: AWS Certified CloudOps Engineer Associate (SOA-C03) Domain 4
+          url: /docs/aws/soa-c03/AWS-SysOps-Administrator-SOA-C03-Domain4-Reading-List
+        - title: AWS Certified CloudOps Engineer Associate (SOA-C03) Domain 5
+          url: /docs/aws/soa-c03/AWS-SysOps-Administrator-SOA-C03-Domain5-Reading-List
+    - title: Developer Associate (DVA-C02)
       items:
-        - title: Machine Learning - Specialty (MLS-C01)
-          items:
-            - title: AWS Certified Machine Learning - Specialty (MLS-C01) Domain 1
-              url: /docs/aws/mls-c01/Domain-1-Data-Engineering
-            - title: AWS Certified Machine Learning - Specialty (MLS-C01) Domain 2
-              url: /docs/aws/mls-c01/Domain-2-Exploratory-Data-Analysis
-            - title: AWS Certified Machine Learning - Specialty (MLS-C01) Domain 3
-              url: /docs/aws/mls-c01/Domain-3-Modeling
-            - title: AWS Certified Machine Learning - Specialty (MLS-C01) Domain 4
-              url: /docs/aws/mls-c01/Domain-4-ML-Implementation-Operations
-        - title: Security - Specialty (SCS-C03)
-          items:
-            - title: AWS Certified Security - Specialty (SCS-C03) Domain 1
-              url: /docs/aws/scs-c03/Domain-1-Detection
-            - title: AWS Certified Security - Specialty (SCS-C03) Domain 2
-              url: /docs/aws/scs-c03/Domain-2-Incident-Response
-            - title: AWS Certified Security - Specialty (SCS-C03) Domain 3
-              url: /docs/aws/scs-c03/Domain-3-Infrastructure-Security
-            - title: AWS Certified Security - Specialty (SCS-C03) Domain 4
-              url: /docs/aws/scs-c03/Domain-4-Identity-Access-Management
-            - title: AWS Certified Security - Specialty (SCS-C03) Domain 5
-              url: /docs/aws/scs-c03/Domain-5-Data-Protection
-            - title: AWS Certified Security - Specialty (SCS-C03) Domain 6
-              url: /docs/aws/scs-c03/Domain-6-Security-Foundations-Governance
-        - title: Advanced Networking - Specialty (ANS-C01)
-          items:
-            - title: AWS Certified Advanced Networking - Specialty (ANS-C01) Domain 1
-              url: /docs/aws/ans-c01/Domain-1-Network-Design
-            - title: AWS Certified Advanced Networking - Specialty (ANS-C01) Domain 2
-              url: /docs/aws/ans-c01/Domain-2-Network-Implementation
-            - title: AWS Certified Advanced Networking - Specialty (ANS-C01) Domain 3
-              url: /docs/aws/ans-c01/Domain-3-Network-Management-Operation
-            - title: AWS Certified Advanced Networking - Specialty (ANS-C01) Domain 4
-              url: /docs/aws/ans-c01/Domain-4-Network-Security-Compliance-Governance
+        - title: AWS Certified Developer Associate (DVA-C02) Domain 1
+          url: /docs/aws/dva-c02/AWS-Developer-Associate-DVA-C02-Domain1
+        - title: AWS Certified Developer Associate (DVA-C02) Domain 2
+          url: /docs/aws/dva-c02/AWS-Developer-Associate-DVA-C02-Domain2
+        - title: AWS Certified Developer Associate (DVA-C02) Domain 3
+          url: /docs/aws/dva-c02/AWS-Developer-Associate-DVA-C02-Domain3
+        - title: AWS Certified Developer Associate (DVA-C02) Domain 4
+          url: /docs/aws/dva-c02/AWS-Developer-Associate-DVA-C02-Domain4
+    - title: Machine Learning Engineer Associate (MLA-C01)
+      items:
+        - title: AWS Certified Machine Learning Engineer Associate (MLA-C01) Domain 1
+          url: /docs/aws/mla-c01/AWS-ML-Engineer-Associate-MLA-C01-Domain1-Reading-List
+        - title: AWS Certified Machine Learning Engineer Associate (MLA-C01) Domain 2
+          url: /docs/aws/mla-c01/AWS-ML-Engineer-Associate-MLA-C01-Domain2-Reading-List
+        - title: AWS Certified Machine Learning Engineer Associate (MLA-C01) Domain 3
+          url: /docs/aws/mla-c01/AWS-ML-Engineer-Associate-MLA-C01-Domain3-Reading-List
+        - title: AWS Certified Machine Learning Engineer Associate (MLA-C01) Domain 4
+          url: /docs/aws/mla-c01/AWS-ML-Engineer-Associate-MLA-C01-Domain4-Reading-List
+    - title: Solutions Architect Associate (SAA-C03)
+      items:
+        - title: AWS Certified Solutions Architect Associate (SAA-C03) Domain 1
+          url: /docs/aws/saa-c03/AWS-Solutions-Architect-Associate-SAA-C03-Domain1
+        - title: AWS Certified Solutions Architect Associate (SAA-C03) Domain 2
+          url: /docs/aws/saa-c03/AWS-Solutions-Architect-Associate-SAA-C03-Domain2
+        - title: AWS Certified Solutions Architect Associate (SAA-C03) Domain 3
+          url: /docs/aws/saa-c03/AWS-Solutions-Architect-Associate-SAA-C03-Domain3
+        - title: AWS Certified Solutions Architect Associate (SAA-C03) Domain 4
+          url: /docs/aws/saa-c03/AWS-Solutions-Architect-Associate-SAA-C03-Domain4
+- title: Professional
+  items:
+    - title: AI - Professional (AIP-C01)
+      items:
+        - title: AWS Certified AI - Professional (AIP-C01) Domain 1
+          url: /docs/aws/aip-c01/Domain-1-Foundation-Model-Integration-Data-Management-Compliance
+        - title: AWS Certified AI - Professional (AIP-C01) Domain 2
+          url: /docs/aws/aip-c01/Domain-2-Implementation-Integration
+        - title: AWS Certified AI - Professional (AIP-C01) Domain 3
+          url: /docs/aws/aip-c01/Domain-3-AI-Safety-Security-Governance
+        - title: AWS Certified AI - Professional (AIP-C01) Domain 4
+          url: /docs/aws/aip-c01/Domain-4-Operational-Efficiency-Optimization
+        - title: AWS Certified AI - Professional (AIP-C01) Domain 5
+          url: /docs/aws/aip-c01/Domain-5-Testing-Validation-Troubleshooting
+    - title: DevOps Engineer Professional (DOP-C02)
+      items:
+        - title: AWS Certified DevOps Engineer Professional (DOP-C02) Domain 1
+          url: /docs/aws/dop-c02/Domain-1-SDLC-Automation
+        - title: AWS Certified DevOps Engineer Professional (DOP-C02) Domain 2
+          url: /docs/aws/dop-c02/Domain-2-Configuration-Management-IaC
+        - title: AWS Certified DevOps Engineer Professional (DOP-C02) Domain 3
+          url: /docs/aws/dop-c02/Domain-3-Resilient-Cloud-Solutions
+        - title: AWS Certified DevOps Engineer Professional (DOP-C02) Domain 4
+          url: /docs/aws/dop-c02/Domain-4-Monitoring-Logging
+        - title: AWS Certified DevOps Engineer Professional (DOP-C02) Domain 5
+          url: /docs/aws/dop-c02/Domain-5-Incident-Event-Response
+        - title: AWS Certified DevOps Engineer Professional (DOP-C02) Domain 6
+          url: /docs/aws/dop-c02/Domain-6-Security-Compliance
+    - title: Solutions Architect Professional (SAP-C02)
+      items:
+        - title: AWS Certified Solutions Architect Professional (SAP-C02) Domain 1
+          url: /docs/aws/sap-c02/Domain-1-Design-Solutions-Organizational-Complexity
+        - title: AWS Certified Solutions Architect Professional (SAP-C02) Domain 2
+          url: /docs/aws/sap-c02/Domain-2-Design-New-Solutions
+        - title: AWS Certified Solutions Architect Professional (SAP-C02) Domain 3
+          url: /docs/aws/sap-c02/Domain-3-Continuous-Improvement-Existing-Solutions
+        - title: AWS Certified Solutions Architect Professional (SAP-C02) Domain 4
+          url: /docs/aws/sap-c02/Domain-4-Accelerate-Workload-Migration-Modernization
+- title: Specialty
+  items:
+    - title: Advanced Networking - Specialty (ANS-C01)
+      items:
+        - title: AWS Certified Advanced Networking - Specialty (ANS-C01) Domain 1
+          url: /docs/aws/ans-c01/Domain-1-Network-Design
+        - title: AWS Certified Advanced Networking - Specialty (ANS-C01) Domain 2
+          url: /docs/aws/ans-c01/Domain-2-Network-Implementation
+        - title: AWS Certified Advanced Networking - Specialty (ANS-C01) Domain 3
+          url: /docs/aws/ans-c01/Domain-3-Network-Management-Operation
+        - title: AWS Certified Advanced Networking - Specialty (ANS-C01) Domain 4
+          url: /docs/aws/ans-c01/Domain-4-Network-Security-Compliance-Governance
+    - title: Machine Learning - Specialty (MLS-C01)
+      items:
+        - title: AWS Certified Machine Learning - Specialty (MLS-C01) Domain 1
+          url: /docs/aws/mls-c01/Domain-1-Data-Engineering
+        - title: AWS Certified Machine Learning - Specialty (MLS-C01) Domain 2
+          url: /docs/aws/mls-c01/Domain-2-Exploratory-Data-Analysis
+        - title: AWS Certified Machine Learning - Specialty (MLS-C01) Domain 3
+          url: /docs/aws/mls-c01/Domain-3-Modeling
+        - title: AWS Certified Machine Learning - Specialty (MLS-C01) Domain 4
+          url: /docs/aws/mls-c01/Domain-4-ML-Implementation-Operations
+    - title: Security - Specialty (SCS-C03)
+      items:
+        - title: AWS Certified Security - Specialty (SCS-C03) Domain 1
+          url: /docs/aws/scs-c03/Domain-1-Detection
+        - title: AWS Certified Security - Specialty (SCS-C03) Domain 2
+          url: /docs/aws/scs-c03/Domain-2-Incident-Response
+        - title: AWS Certified Security - Specialty (SCS-C03) Domain 3
+          url: /docs/aws/scs-c03/Domain-3-Infrastructure-Security
+        - title: AWS Certified Security - Specialty (SCS-C03) Domain 4
+          url: /docs/aws/scs-c03/Domain-4-Identity-Access-Management
+        - title: AWS Certified Security - Specialty (SCS-C03) Domain 5
+          url: /docs/aws/scs-c03/Domain-5-Data-Protection
+        - title: AWS Certified Security - Specialty (SCS-C03) Domain 6
+          url: /docs/aws/scs-c03/Domain-6-Security-Foundations-Governance
