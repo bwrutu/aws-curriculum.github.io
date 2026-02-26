@@ -1,193 +1,120 @@
 # CloudPath Academy
 
-**Your guide to AWS, Azure, and GCP certification success**
+**Your guide to AWS certification success**
 
 [![Website](https://img.shields.io/badge/Website-cloudpathacademy.ka6wke.net-blue)](https://cloudpathacademy.ka6wke.net)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ---
 
-## 🎓 About CloudPath Academy
+## About CloudPath Academy
 
-CloudPath Academy is a comprehensive study resource for cloud certification exams across all major platforms: Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
+CloudPath Academy is a study resource built around a simple frustration: while preparing for AWS certifications, finding the right documentation, FAQs, and whitepapers often took longer than actually studying them. These guides are the organized result of that research — curated links to primary sources, organized by official exam domain, so you spend more time learning and less time searching.
 
-Our mission is to provide structured, well-organized study guides with direct links to official documentation, helping aspiring cloud professionals navigate their certification journey with confidence.
+Every study guide is built around the official AWS exam domain structure with direct links to the documentation pages, service FAQs, and architectural whitepapers most relevant to each exam objective. AWS Skill Builder links are also included for hands-on labs and official training.
 
-## ☁️ What We Offer
+---
 
-### Multi-Cloud Certification Coverage
+## Available Study Guides
 
-- **AWS Certifications**
-  - Cloud Practitioner (CLF-C02)
-  - Developer Associate (DVA-C02)
-  - Solutions Architect Associate (SAA-C03)
-  - And more...
+### Foundational
 
-- **Azure Certifications** *(Coming Soon)*
-  - Azure Fundamentals (AZ-900)
-  - Azure Administrator Associate (AZ-104)
-  - Azure Developer Associate (AZ-204)
+| Certification | Domains |
+|---|---|
+| AI Practitioner (AIF-C01) | 5 |
+| Cloud Practitioner (CLF-C02) | 4 |
 
-- **GCP Certifications** *(Coming Soon)*
-  - Cloud Digital Leader
-  - Associate Cloud Engineer
-  - Professional Cloud Architect
+### Associate
 
-### Study Guide Features
+| Certification | Domains |
+|---|---|
+| CloudOps Engineer Associate (SOA-C03) | 5 |
+| Developer Associate (DVA-C02) | 4 |
+| Machine Learning Engineer Associate (MLA-C01) | 4 |
+| Solutions Architect Associate (SAA-C03) | 4 |
 
-✅ **Comprehensive Documentation Links** - 150-220+ hyperlinked official resources per domain<br>
-✅ **Exam-Focused Content** - Organized by official exam domains and skills<br>
-✅ **"Why" Statements** - Exam relevance explained for every skill<br>
-✅ **Study Tips** - Actionable recommendations for each domain<br>
-✅ **Progressive Learning Paths** - Structured approach to mastering content<br>
-✅ **Official Resources** - Service FAQs, whitepapers, and documentation
+### Professional
 
-## 📚 Available Study Guides
+| Certification | Domains |
+|---|---|
+| AI - Professional (AIP-C01) | 5 |
+| DevOps Engineer Professional (DOP-C02) | 6 |
+| Solutions Architect Professional (SAP-C02) | 4 |
 
-### AWS Certified Cloud Practitioner (CLF-C02)
+### Specialty
 
-- [Domain 4: Billing, Pricing, and Support](docs/aws/clf-c02/domain4.md)
+| Certification | Domains |
+|---|---|
+| Advanced Networking - Specialty (ANS-C01) | 4 |
+| Machine Learning - Specialty (MLS-C01) | 4 |
+| Security - Specialty (SCS-C03) | 6 |
 
-### AWS Certified Developer Associate (DVA-C02)
+---
 
-- [Domain 1: Development with AWS Services](docs/aws/dva-c02/domain1.md)
-- [Domain 2: Security](docs/aws/dva-c02/domain2.md)
-- [Domain 3: Deployment](docs/aws/dva-c02/domain3.md)
-- [Domain 4: Troubleshooting and Optimization](docs/aws/dva-c02/domain4.md)
+## Study Guide Statistics
 
-## 🎯 Study Approach
+- **Total Domain Guides** — 55 across 12 AWS certifications
+- **AWS Documentation Links** — 2,826
+- **AWS FAQ References** — 340
+- **AWS Whitepapers** — 119
+- **Total Curated Links** — 3,285
 
-Each domain guide is structured to maximize learning efficiency:
+---
 
-1. **Study Tips** - Domain-specific strategies for effective learning
-2. **Recommended Approach** - Step-by-step learning progression
-3. **Task & Skill Breakdown** - Organized by official exam objectives
-4. **Why Statements** - Understanding exam relevance for each skill
-5. **Documentation Links** - Direct access to official resources
-6. **Service FAQs** - Quick reference guides
-7. **Whitepapers** - Deep-dive architectural guidance
-8. **Final Thoughts** - Key takeaways and exam preparation summary
+## Built With
 
-## 🚀 Getting Started
-
-1. **Choose Your Certification** - Select the cloud platform and certification level
-2. **Review Study Tips** - Understand the recommended study approach
-3. **Follow the Learning Path** - Work through domains systematically
-4. **Hands-On Practice** - Apply concepts in the AWS Free Tier or trial accounts
-5. **Review Documentation** - Deep dive into official resources
-6. **Take Practice Exams** - Test your knowledge
-7. **Pass Your Certification** - Achieve your cloud certification goals!
-
-## 💡 Philosophy
-
-CloudPath Academy believes in:
-
-- **Quality over Quantity** - Curated links to official documentation, not information overload
-- **Hands-On Learning** - Practical experience is essential, not just reading
-- **Official Resources** - Direct links to authoritative sources
-- **Exam Alignment** - Content organized by official exam guides
-- **Continuous Updates** - Keeping pace with cloud platform changes
-
-## 🛠️ Built With
-
-- **Platform** - Google Sites for easy content management
-- **Domain** - Custom domain hosted at cloudpathacademy.ka6wke.net
-- **Content** - Markdown-formatted study guides
-- **Resources** - Official AWS, Azure, and GCP documentation
-
-## 📖 How to Use This Repository
-
-This repository contains the source content for CloudPath Academy. Study guides are written in Markdown format and published to Google Sites.
+- **Platform** — Jekyll with the Slate theme, hosted on GitHub Pages
+- **Domain** — Custom domain at cloudpathacademy.ka6wke.net
+- **Content** — Markdown study guides organized by official exam domains
 
 ### Repository Structure
 
 ```
-cloudpath-academy/
+ka6wke.github.io/
 ├── docs/
-│   ├── aws/
-│   │   ├── clf-c02/          # Cloud Practitioner guides
-│   │   ├── dva-c02/          # Developer Associate guides
-│   │   └── saa-c03/          # Solutions Architect guides (coming soon)
-│   ├── azure/                # Azure guides (coming soon)
-│   └── gcp/                  # GCP guides (coming soon)
+│   └── aws/
+│       ├── aif-c01/    # AI Practitioner
+│       ├── aip-c01/    # AI Professional
+│       ├── ans-c01/    # Advanced Networking Specialty
+│       ├── clf-c02/    # Cloud Practitioner
+│       ├── dop-c02/    # DevOps Engineer Professional
+│       ├── dva-c02/    # Developer Associate
+│       ├── mla-c01/    # ML Engineer Associate
+│       ├── mls-c01/    # Machine Learning Specialty
+│       ├── saa-c03/    # Solutions Architect Associate
+│       ├── sap-c02/    # Solutions Architect Professional
+│       ├── scs-c03/    # Security Specialty
+│       └── soa-c03/    # CloudOps Engineer Associate
+├── _data/
+│   └── navigation.yml  # Site navigation
+├── _layouts/
+│   └── default.html    # Page layout
 ├── assets/
-│   ├── images/               # Logos, banners, icons
-│   └── branding/             # CloudPath Academy branding files
-└── README.md                 # This file
+│   ├── css/            # Custom styles
+│   └── images/         # Logos and icons
+└── index.md            # Home page
 ```
 
-## 🤝 Contributing
+---
 
-CloudPath Academy is currently a curated study resource. If you find broken links or outdated information, please:
+## Contributing
 
-1. Open an issue describing the problem
-2. Include the specific guide and section
-3. Provide the correct or updated information if available
-
-We appreciate your help in keeping CloudPath Academy accurate and up-to-date!
-
-## 📊 Study Guide Statistics
-
-- **Total Study Guides** - 5 comprehensive domains (AWS focus)
-- **Documentation Links** - 800+ official AWS resources
-- **FAQ References** - 100+ service-specific FAQs
-- **Whitepapers** - 50+ architectural and best practice guides
-- **Coverage** - Cloud Practitioner and Developer Associate certifications
-
-## 🎓 Who Is This For?
-
-CloudPath Academy is designed for:
-
-- **Aspiring Cloud Professionals** - Starting your cloud career journey
-- **Developers** - Building cloud-native applications
-- **System Administrators** - Transitioning to cloud infrastructure
-- **IT Professionals** - Expanding cloud platform knowledge
-- **Students** - Learning cloud computing fundamentals
-- **Career Changers** - Moving into cloud technology roles
-
-## 🌟 Why CloudPath Academy?
-
-**Comprehensive** - All exam domains covered with detailed skill breakdowns
-**Official Sources** - Direct links to AWS, Azure, and GCP documentation
-**Exam-Focused** - Organized by official certification exam guides
-**Free** - No paywalls or subscriptions required
-**Updated** - Aligned with current exam versions (CLF-C02, DVA-C02)
-**Multi-Cloud** - Supporting AWS, Azure, and GCP certifications
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🔗 Links
-
-- **Website** - [cloudpathacademy.ka6wke.net](https://cloudpathacademy.ka6wke.net)
-- **GitHub** - [github.com/yourusername/cloudpath-academy](https://github.com/yourusername/cloudpath-academy)
-
-## 📧 Contact
-
-Questions or suggestions? Feel free to open an issue or reach out via [KA6WKE.net](https://ka6wke.net)
-
-## 🙏 Acknowledgments
-
-- **AWS** - For comprehensive documentation and certification programs
-- **Microsoft Azure** - For extensive learning resources
-- **Google Cloud Platform** - For detailed technical documentation
-- **Cloud Community** - For shared knowledge and experiences
+If you find broken links or outdated information, please open an issue describing the problem, including the specific guide and section.
 
 ---
 
-**CloudPath Academy** - Navigate every cloud certification path ☁️
+## License
+
+All site content is licensed under [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+---
+
+## Contact
+
+- **Website** — [cloudpathacademy.ka6wke.net](https://cloudpathacademy.ka6wke.net)
+- **GitHub** — [github.com/KA6WKE](https://github.com/KA6WKE)
+- **LinkedIn** — [Mark Schoonover](https://www.linkedin.com/in/markschoonover/)
+
+---
 
 *Study smart. Build skills. Pass certifications. Advance your career.*
-
----
-
-### Recent Updates
-
-- ✅ AWS Developer Associate (DVA-C02) - All 4 domains
-- ✅ AWS Cloud Practitioner (CLF-C02) - Domain 4
-- 🔜 AWS Solutions Architect Associate (SAA-C03) - Coming soon
-- 🔜 Azure Fundamentals (AZ-900) - Coming soon
-- 🔜 Google Cloud Digital Leader - Coming soon
-
-**Last Updated** - February 2026
