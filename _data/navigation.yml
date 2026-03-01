@@ -5,15 +5,15 @@
     - title: AI Practitioner (AIF-C01)
       items:
         - title: AWS Certified AI Practitioner (AIF-C01) Domain 1
-          url: /docs/aws/AI Practitioner-c01/AWS-AI-Practitioner-AIF-C01-Domain1
+          url: /docs/aws/aif-c01/AWS-AI-Practitioner-AIF-C01-Domain1
         - title: AWS Certified AI Practitioner (AIF-C01) Domain 2
-          url: /docs/aws/AI Practitioner-c01/AWS-AI-Practitioner-AIF-C01-Domain2
+          url: /docs/aws/aif-c01/AWS-AI-Practitioner-AIF-C01-Domain2
         - title: AWS Certified AI Practitioner (AIF-C01) Domain 3
-          url: /docs/aws/AI Practitioner-c01/AWS-AI-Practitioner-AIF-C01-Domain3
+          url: /docs/aws/aif-c01/AWS-AI-Practitioner-AIF-C01-Domain3
         - title: AWS Certified AI Practitioner (AIF-C01) Domain 4
-          url: /docs/aws/AI Practitioner-c01/AWS-AI-Practitioner-AIF-C01-Domain4
+          url: /docs/aws/aif-c01/AWS-AI-Practitioner-AIF-C01-Domain4
         - title: AWS Certified AI Practitioner (AIF-C01) Domain 5
-          url: /docs/aws/AI Practitioner-c01/AWS-AI-Practitioner-AIF-C01-Domain5
+          url: /docs/aws/aif-c01/AWS-AI-Practitioner-AIF-C01-Domain5
     - title: Cloud Practitioner (CLF-C02)
       items:
         - title: AWS Certified Cloud Practitioner (CLF-C02) Domain 1
