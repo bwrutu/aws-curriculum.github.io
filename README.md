@@ -1,4 +1,4 @@
-# CloudPath Academy
+# 
 
 **Your guide to AWS certification success**
 
